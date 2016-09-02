@@ -75,14 +75,23 @@ body {
 }
 
 .text-banner {
-        text-align: center;
+
         margin: 40px 20px;
 }
 
-.centerList {
+#descript {
+  text-align: center;
+}
+
+#smoking {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.accomodations {
   display: table;
   margin: 0 auto;
-  font-weight: bold;
+  text-align: center;
 }
 
 .text-banner h1 {
@@ -101,7 +110,7 @@ body {
 }
 
 .activity-section {
-        margin: 50px;
+      margin: 80px 30px 30px 30px;
 }
 
 .activity-element {
@@ -186,25 +195,6 @@ aside {
         color: darkblue;
 }
 
-.sports-icon-list {
-        background-color: #333;
-        padding-bottom: 40px;
-
-}
-
-.sports-icon-list a {
-        color: white;
-}
-
-.sports-icon-list a h6 {
-        margin-top: 2px;
-        margin-bottom: 14px;
-}
-
-.sports-icon-list img {
-        width: 70px;
-        height: 70px;
-}
 
 article {
         padding: 40px;
