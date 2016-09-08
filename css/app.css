@@ -8,6 +8,10 @@ body {
 
 }
 
+h1 {
+  font-size: 50px;
+}
+
 #logo {
     width: 300px;
 
@@ -104,9 +108,10 @@ body {
 
 #activityTitle {
   position: relative;
-  top: -20px;
+  top: -30px;
   text-align: center;
   margin: 10px;
+  font-size: 50px;
 }
 
 .activity-section {
@@ -154,7 +159,16 @@ body {
 }
 
 #gallery {
-  margin-top: 50px;
+  margin: 50px 0 20px 0;
+
+}
+
+.aList {
+  font-weight: bold;
+}
+
+#beachIcon {
+  width: 200px;
 }
 
 
