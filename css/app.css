@@ -1,11 +1,10 @@
 html {
-        height: 100%;
+        height: 100vh;
+        min-height: 100%;
 }
 
 body {
         font-family: 'Open Sans', sans-serif;
-
-
 }
 
 h1 {
@@ -26,6 +25,11 @@ h1 {
 
 }
 
+.navbar-inverse .nav-pills .active  a {
+    background-color: #00b386 !important;
+}
+
+
 @media (max-width: 400px) {
 
         .navbar-header {
@@ -39,12 +43,23 @@ h1 {
                 margin: auto;
                 width: 70%;
         }
+
+
 }
 
 .fill-screen {
         background-size: cover;
         background-position: center;
+
 }
+
+@media only screen and (min-width : 320px)  {}
+@media only screen and (min-width : 480px)  {}
+@media only screen and (min-width : 768px)  {}
+@media only screen and (min-width : 992px)  {.fixed-attachment {background-attachment: fixed;}}
+@media only screen and (min-width : 1200px) {}
+
+
 
 .title-row {
         position: relative;
@@ -54,9 +69,12 @@ h1 {
 
 .down-button {
         position: absolute;
-        bottom: 100px;
-        width: 100%;
-        text-align: center;
+        padding: 20px;
+        top: 80%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+        -webkit-transform: translate(-50%, -50%);
 }
 
 .title-image {
@@ -74,9 +92,6 @@ h1 {
         color: white;
 }
 
-.fixed-attachment {
-        background-attachment: fixed;
-}
 
 .text-banner {
 
