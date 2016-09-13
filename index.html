@@ -178,16 +178,41 @@
 
                 </div>
 
-                <div id="ratesReservations">
-                    <h1 style="text-align: center; margin-top: 50px;">Rates and Reservations</h1>
-                </div>
-
             </section>
+
+            <section class="row">
+                <h1 id="ratesReservations" style="text-align: center; margin-top: 50px;">Rates and Reservations</h1>
+                <div style="margin: 0 auto; text-align: center;">
+                    
+                </div>
+            </section>
+
             <section class="row">
                 <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/beachclub/family_beach.jpg');"></div>
             </section>
             <section id="guestBook" class="row">
                 <h1>Guest Book</h1> 
+                <div id="disqus_thread"></div>
+                <script>
+
+                /**
+                 *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+                 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */
+                /*
+                var disqus_config = function () {
+                    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+                    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                };
+                */
+                (function() { // DON'T EDIT BELOW THIS LINE
+                    var d = document, s = d.createElement('script');
+                    s.src = '//laurangroup.disqus.com/embed.js';
+                    s.setAttribute('data-timestamp', +new Date());
+                    (d.head || d.body).appendChild(s);
+                })();
+                </script>
+                <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                    
             </section>
             <section id="contact-me" class="row contact-us">
                 <h1>CONTACT US</h1>
@@ -210,7 +235,7 @@
         <script src="js/jquery.nanogallery.js"></script>
         <script src="js/jquery.stellar.js"></script>
         <script src="js/app.js"></script>
-
+        <script id="dsq-count-scr" src="//laurangroup.disqus.com/count.js" async></script>
     </body>
 
 </html>
