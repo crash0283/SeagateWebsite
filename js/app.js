@@ -23,7 +23,14 @@ $(function() {
                 event.preventDefault()
         })
 
-        $(window).stellar();
+        //Test if on mobile device, and if it is, disable parallax scrolling
+        var ismobile = /Android|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+
+        if (!ismobile) {
+                $(window).stellar();
+        }
+
+        
         $(document).ready(function () {
                 $("#nanoGallery3").nanoGallery({
                         thumbnailHoverEffect: [{ name: 'labelAppear75', duration: 300},{name: 'imageScale150', duration: 700}],
@@ -35,7 +42,7 @@ $(function() {
                         thumbnailGutterHeight: 0,
                         thumbnailLabel: { display: true, position: 'overImageOnMiddle', align: 'center' },
                         colorSchemeViewer: 'light',
-                        maxWidth: 1000
+                        maxWidth: 1500
                 });
         });
 });
