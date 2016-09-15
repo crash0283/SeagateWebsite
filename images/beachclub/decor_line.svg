@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg2"
+    sodipodi:docname="line3.svg"
+    viewBox="0 0 616.11 62.024"
+    sodipodi:version="0.32"
+    version="1.0"
+    inkscape:output_extension="org.inkscape.output.svg.inkscape"
+    inkscape:version="0.46"
+    sodipodi:docbase="C:\Documents and Settings\tdingman\My Documents\SVG"
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      guidetolerance="10"
+      pagecolor="#ffffff"
+      gridtolerance="10000"
+      inkscape:window-height="669"
+      inkscape:zoom="0.91963333"
+      objecttolerance="10"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="393.49214"
+      inkscape:cy="12.013005"
+      inkscape:window-y="58"
+      inkscape:window-x="44"
+      inkscape:window-width="863"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+      transform="translate(-77.601 -425.81)"
+    >
+    <g
+        id="g2390"
+      >
+      <g
+          id="g2785"
+          transform="matrix(.85040 0 0 .89861 12.065 46.69)"
+        >
+        <path
+            id="path2777"
+            sodipodi:nodetypes="csc"
+            style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;fill:#4d4d4d"
+            d="m439.25 460.28s0.01 26.32-35.96 18.74c-35.98-7.57-304.84-15.14-321.88 11.36 43.93-9.99 239.95-21.52 326.18-6.48 15.54 3.01 31.08 2.5 31.66-23.62z"
+        />
+        <path
+            id="path2783"
+            sodipodi:nodetypes="csc"
+            style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;fill:#4d4d4d"
+            d="m439.24 460.32s-0.01 26.32 35.96 18.75c35.97-7.58 304.83-15.15 321.87 11.36-43.92-10-239.94-21.53-326.17-6.49-15.54 3.01-31.09 2.51-31.66-23.62z"
+        />
+      </g
+      >
+      <path
+          id="path2813"
+          style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;fill:#4d4d4d"
+          d="m369.73 473.97c-1.57-8.79-3.55-15.44-11.94-16.01-8.38-0.57 5.43 4.44 11.94 16.01z"
+      />
+      <path
+          id="path2815"
+          style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;fill:#4d4d4d"
+          d="m373.38 462.92c-1.57-8.79-3.55-15.45-11.93-16.02-8.39-0.57 5.43 4.45 11.93 16.02z"
+      />
+      <path
+          id="path2817"
+          style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;fill:#4d4d4d"
+          d="m401.1 473.21c1.57-8.79 3.54-15.44 11.93-16.02 8.38-0.57-5.43 4.45-11.93 16.02z"
+      />
+      <path
+          id="path2819"
+          style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;fill:#4d4d4d"
+          d="m397.44 462.15c1.57-8.79 3.55-15.44 11.93-16.01 8.39-0.57-5.42 4.44-11.93 16.01z"
+      />
+      <path
+          id="path2823"
+          style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;fill:#4d4d4d"
+          d="m371.54 426.65s28.58 9.53-2.04 10.21c0 0 15.65-1.71 15.99 15.99 0-16.67 14.98-17.01 14.98-17.01-30.63 1.36-0.35-9.19-0.35-9.19l0.69-0.34-29.27 0.34z"
+      />
+      <path
+          id="path2829"
+          style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;fill:#4d4d4d"
+          d="m80.735 487.28c-14.61-18.84 36.135-20.76 40.365-22.3 4.23-1.53 9.23-4.23 1.54-12.3 21.91 8.07 103.8 14.61 103.8 14.61-41.13-1.15-145.7 4.23-145.7 19.99z"
+      />
+      <path
+          id="path2831"
+          style="fill-rule:evenodd;stroke:#000000;stroke-width:1px;fill:#4d4d4d"
+          d="m690.58 486.59c14.61-18.83-36.14-20.76-40.37-22.29-4.23-1.54-9.22-4.23-1.54-12.31-21.91 8.08-103.8 14.61-103.8 14.61 41.14-1.15 145.71 4.23 145.71 19.99z"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Dividing Line 3</dc:title
+        >
+        <dc:date
+          >2008-11-20T19:44:28</dc:date
+        >
+        <dc:description
+          >Created to be a dividing line for use with Scribus</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/20302/dividing-line-3-by-twoton</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >twoton</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >line</rdf:li
+            >
+            <rdf:li
+              >outline</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
