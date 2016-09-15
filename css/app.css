@@ -166,8 +166,16 @@ p {
 }
 
 .required {
-    margin-top: -100px;
-    padding: 20px 20px 0 20px;
+    margin-top: -90px;
+    padding: 0;
+}
+
+@media (max-width: 400px  ) {
+    
+    .required {
+        margin-top: -60px;
+        padding: 0;
+    }
 }
 
 
