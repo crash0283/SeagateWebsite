@@ -253,10 +253,10 @@
         </div>
         <footer class="container-fluid">
             
-            <h4><i class="fa fa-copyright" aria-hidden="true"></i> The Lauran Group</h4>
+            <h4><i class="fa fa-copyright" aria-hidden="true"></i> 2016 The Lauran Group</h4>
             <div>
                 <h4>Find Us On:</h4>
-                <a href="https://www.facebook.com/The-Lauran-Group-183813398309609/?fref=nf"><i style="color: white;" class="fa fa-facebook-official fa-3x" aria-hidden="true"></i></a>
+                <a href="https://www.facebook.com/The-Lauran-Group-183813398309609/?fref=nf"><i style="color: white;" class="fa fa-facebook-official fa-4x" aria-hidden="true"></i></a>
             </div>
             <br>
             <br>
