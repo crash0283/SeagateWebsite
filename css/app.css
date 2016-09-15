@@ -154,6 +154,18 @@ p {
         text-align: center;
 }
 
+.form {
+
+    margin-bottom: 30px;
+    margin-top: -10px;
+
+}
+
+.required {
+    margin-top: -100px;
+}
+
+
 #guestBook {
         margin: 50px;
         text-align: center;
