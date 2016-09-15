@@ -5,6 +5,7 @@ html {
 
 body {
         font-family: 'Open Sans', sans-serif;
+        position: relative;
 }
 
 h1 {
@@ -35,7 +36,7 @@ p {
 }
 
 
-@media (max-width: 400px) {
+@media (max-width: 420px) {
 
         .navbar-header {
                 position: relative;
@@ -170,10 +171,11 @@ p {
     padding: 0;
 }
 
-@media (max-width: 400px  ) {
-    
+@media (max-width: 740px  ) {
+
     .required {
         margin-top: -60px;
+        margin-right: 20px;
         padding: 0;
     }
 }
