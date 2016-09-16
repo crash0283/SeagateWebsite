@@ -1,10 +1,10 @@
 <?php 
 
-    require 'php/PHPMailer/PHPMailerAutoload.php';
+    /*require_once 'php/PHPMailer/PHPMailerAutoload.php';
 
     $mail = new PHPMailer;
 
-    //$mail->SMTPDebug = 3;                               // Enable verbose debug output
+    $mail->SMTPDebug = 3;                               // Enable verbose debug output
 
     $mail->isSMTP();                                      // Set mailer to use SMTP
     $mail->Host = 'smtp.gmail.com';  // Specify main and backup SMTP servers
@@ -14,25 +14,25 @@
     $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
     $mail->Port = 587;                                    // TCP port to connect to
 
-    $mail->setFrom($_POST['email'], $_POST['name']);
+    $mail->setFrom('rasch83@gmail.com', 'Chris');
     $mail->addAddress('rasch83@gmail.com', 'Chris Rasch');     // Add a recipient
-    /*$mail->addAddress('ellen@example.com');               // Name is optional
+    $mail->addAddress('ellen@example.com');               // Name is optional
     $mail->addReplyTo('info@example.com', 'Information');
     $mail->addCC('cc@example.com');
-    $mail->addBCC('bcc@example.com');*/
+    $mail->addBCC('bcc@example.com');
 
     $mail->isHTML(true);                                  // Set email format to HTML
 
-    $mail->Subject = 'A Message From '.$_POST['name'];
-    $mail->Body    = $_POST['message'];
-    //$mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
+    $mail->Subject = 'A Message From Chris';
+    $mail->Body = 'A Post!';
+    $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
     if(!$mail->send()) {
         echo 'Message could not be sent.';
         echo 'Mailer Error: ' . $mail->ErrorInfo;
     } else {
         echo 'Message has been sent';
-    }
+    }*/
 
 
  ?>
@@ -267,7 +267,7 @@
                     <p class="lead">Please feel free to contact us with questions and concerns, otherwise, please use the 'Guest Book' section for comments.</p>
                 </div>
                 <div class="col-md-4 col-md-offset-4 form">
-                    <form class="form">
+                    <form class="form" method="POST">
                       <div class="form-group">
                         <label for="name">*Name</label>
                         <input type="text" class="form-control" id="name" placeholder="Name" name="name" required>
