@@ -166,10 +166,6 @@ p {
 
 }
 
-.required {
-    margin-top: -90px;
-    padding: 0;
-}
 
 @media (max-width: 740px  ) {
 
@@ -185,6 +181,10 @@ p {
         margin: 50px;
         margin-top: 200px;
         text-align: center;
+}
+
+#formAlerts {
+    margin-bottom: 40px;
 }
 
 .bookImg {
