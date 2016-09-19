@@ -183,6 +183,10 @@ p {
         text-align: center;
 }
 
+#name {
+    text-transform: capitalize;
+}
+
 #formAlerts {
     margin-bottom: 40px;
 }
