@@ -181,7 +181,15 @@
 
             <section class="row">
                 <h1 id="ratesReservations" style="text-align: center; margin-top: 50px;">Rates and Reservations</h1>
-                <div style="margin: 0 auto; text-align: center;">
+                <div class="col-md-4 col-md-offset-4" style="margin-top: 30px; margin-bottom: 30px;">
+                    <!-- OwnerRez Single Month Calendar widget for The Beach Club A1506 -->
+                    <div class="ownerrez-widget" data-widgetId="a0dab6d670564df2819853cca8d6b60f" data-propertyId="03228a3536ec48ca8df7ab6044437e28"></div>
+                    <script type="text/javascript" src="https://secure.ownerreservations.com/widget.js"></script>
+                </div>
+                <div class="col-md-4 col-md-offset-4" style="margin-top: 30px; margin-bottom: 30px;">
+                    <!-- OwnerRez Booking/Inquiry widget for The Beach Club A1506 -->
+                    <div class="ownerrez-widget" data-widgetId="1a74dbdd7a0141879ca83201d494f662" data-propertyId="03228a3536ec48ca8df7ab6044437e28"></div>
+                    <script type="text/javascript" src="https://secure.ownerreservations.com/widget.js"></script>
                     
                 </div>
             </section>
