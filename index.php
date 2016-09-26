@@ -178,8 +178,10 @@
                 </div>
 
             </section>
-
-            <section class="row">
+            <div class="col-xs-4 col-xs-offset-4">
+                <img id="reserve" class="img-responsive bookImg" src="images/beachclub/calendar.png">
+            </div>
+            <section class="row reserveMe">
                 <h1 id="ratesReservations" style="text-align: center; margin-top: 50px;">Rates and Reservations</h1>
                 <div class="col-md-4 col-md-offset-4" style="margin-top: 30px; margin-bottom: 30px;">
                     <!-- OwnerRez Single Month Calendar widget for The Beach Club A1506 -->
@@ -270,7 +272,7 @@
             <div>Icons made by <a href="http://www.flaticon.com/authors/madebyoliver" title="Madebyoliver">Madebyoliver</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
             <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
             <div>Icons made by <a href="http://www.flaticon.com/authors/epiccoders" title="EpicCoders">EpicCoders</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
-            
+            <div>Icons made by <a href="http://www.flaticon.com/authors/madebyoliver" title="Madebyoliver">Madebyoliver</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
         </footer>
 
         <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
