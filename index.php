@@ -81,7 +81,8 @@
                     <h1>Come and Relax...</h1>
                     <p class='lead'>Beach Club
                         <strong>A1506</strong>
-                        is a gorgeous beachfront condominium that overlooks the Gulf of Mexico and is located in beautiful Gulf Shores, Alabama.</p>
+                        is a gorgeous beachfront condominium located on Fort Morgan Peninsula near beautiful Gulf Shores, Alabama.</p>
+                        <p>Our condo is located on the 15th floor and is professionally decorated.  This is a 1400 square foot condo that features a full balcony view of the Gulf of Mexico and <strong>BEAUTIFUL</strong> sunsets daily! </p>
                     <br>
                     <p>
                         Our guests will enjoy all the comforts of home, but with the luxuries of a first-class vacation! The extensively lush landscape and beautifully clean building will take your worries away. Enjoy peaceful sunsets or sunny days on our large balcony or
@@ -183,16 +184,15 @@
             </div>
             <section class="row reserveMe">
                 <h1 id="ratesReservations" style="text-align: center; margin-top: 50px;">Rates and Reservations</h1>
-                <div class="col-md-4 col-md-offset-4" style="margin-top: 30px; margin-bottom: 30px;">
-                    <!-- OwnerRez Single Month Calendar widget for The Beach Club A1506 -->
-                    <div class="ownerrez-widget" data-widgetId="a0dab6d670564df2819853cca8d6b60f" data-propertyId="03228a3536ec48ca8df7ab6044437e28"></div>
+                <div class="col-md-6 col-md-offset-4" style="margin-top: 30px; margin-bottom: 30px;">
+                    <!-- OwnerRez Three Month Calendar widget for The Beach Club A1506 -->
+                    <div class="ownerrez-widget" data-widgetId="ad60278d908e4fff8660e646d301d73e" data-propertyId="03228a3536ec48ca8df7ab6044437e28"></div>
                     <script type="text/javascript" src="https://secure.ownerreservations.com/widget.js"></script>
                 </div>
                 <div class="col-md-4 col-md-offset-4" style="margin-top: 30px; margin-bottom: 30px;">
                     <!-- OwnerRez Booking/Inquiry widget for The Beach Club A1506 -->
                     <div class="ownerrez-widget" data-widgetId="1a74dbdd7a0141879ca83201d494f662" data-propertyId="03228a3536ec48ca8df7ab6044437e28"></div>
                     <script type="text/javascript" src="https://secure.ownerreservations.com/widget.js"></script>
-                    
                 </div>
             </section>
 
