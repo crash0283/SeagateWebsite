@@ -124,7 +124,7 @@
                 <div class="activity-element col-md-4">
                     <img src="images/beachclub/cuBeach_FIXED.jpg"/>
                     <h2>The Beach</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin nisi vel lectus ultrices finibus. Phasellus maximus tincidunt odio et laoreet. In fermentum eu risus a lacinia.</p>
+                    <p>The Beach Club boasts one of the most pristine beaches found on the Fort Morgan Peninsula.  From wildflowers to sea birds and turtles, there is no shortage of nature to sit back and enjoy.  Keep a look out for dolphins dancing in the Gulf and don't forget about the gorgeous sunsets!</p>
                 </div>
                 <div class="activity-element col-md-4">
                     <img src="images/beachclub/shopping_01_FIXED.jpg"/>
@@ -136,7 +136,7 @@
                     <h2>Golf</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin nisi vel lectus ultrices finibus. Phasellus maximus tincidunt odio et laoreet. In fermentum eu risus a lacinia.</p>
                 </div>
-
+                <div class="clearfix"></div>
                 <div class="activity-element col-md-4">
                     <img src="images/beachclub/food_01_FIXED.jpg"/>
                     <h2>Eating</h2>
