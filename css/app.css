@@ -224,9 +224,25 @@ p {
 }
 
 #gallery {
-  margin: 50px 0 20px 0;
+    margin: 50px 0 20px 0;
 
 }
+
+@media only screen and (min-device-width: 568px) and (max-device-width: 1366px) {
+    .panorama {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media only screen and (min-width : 1367px) and (max-width: 2047px) {
+    .panorama {
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
 
 .aList {
   font-weight: bold;
