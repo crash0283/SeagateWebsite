@@ -9,7 +9,7 @@
         <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
         <script src="https://use.fontawesome.com/87f3604e24.js"></script>
         <link href="https://fonts.googleapis.com/css?family=Scope+One" rel="stylesheet">
-        <link rel="stylesheet" type="text/css" href="js/panorama_viewer/panorama_viewer.css">
+        <link rel="stylesheet" type="text/css" href="js/pannellum/pannellum.css">
         <link rel="stylesheet" href="css/app.css">
         <link rel="stylesheet" type="text/css" href="css/themes/light/nanogallery_light.css">
 
@@ -179,8 +179,8 @@
 
                 </div>
                 <h3 id="panoTitle" style="text-align: center; margin-top: 30px;">Panorama of The Beach Club</h3>
-                <div class="panorama">
-                    <img src="image/beachclub/condo_panorama_fixed.jpg" title="The Beach Club" alt="The Beach Club" />
+                <div class="pano">
+                    <iframe width="600" height="400" allowfullscreen style="border-style:none;" src="http://cdn.pannellum.org/2.2/pannellum.htm?panorama=http%3A//i.imgur.com/ZEBmx9d.jpg"></iframe>
                 </div>
             </section>
             <div class="col-xs-4 col-xs-offset-4">
@@ -287,7 +287,7 @@
         <script src="js/jquery.easing.1.3.js"></script>
         <script src="js/jquery.nanogallery.js"></script>
         <script src="js/jquery.stellar.js"></script>
-        <script src="js/panorama_viewer/jquery.panorama_viewer.min.js"></script>
+        <script src="js/pannellum/pannellum.js"></script>
         <script src="js/app.js"></script>
         <script id="dsq-count-scr" src="//laurangroup.disqus.com/count.js" async></script>
     </body>

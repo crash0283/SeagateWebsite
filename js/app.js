@@ -56,14 +56,6 @@ $(function() {
                 
         });
 
-        $('.panorama').panorama_viewer ({
-                repeat: false,
-                direction: "horizontal",
-                animationTime: 700,
-                easing: "ease-out",
-                overlay: true
-        });
-
 
         $('[data-spy="scroll"]').each(function () {
                 var $spy = $(this).scrollspy('refresh')
