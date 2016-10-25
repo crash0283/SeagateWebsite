@@ -122,37 +122,46 @@
             <section id="activities" class="row activity-section">
                 <h1 id="activityTitle">So Much To Do...</h1>
 
-                <div class="activity-element col-md-4">
-                    <img src="images/beachclub/cuBeach_FIXED.jpg"/>
-                    <h2>The Beach</h2>
-                    <p>The Beach Club boasts one of the most pristine beaches found on the Fort Morgan Peninsula.  From wildflowers to sea birds and turtles, there is no shortage of nature to sit back and enjoy.  Keep a look out for dolphins dancing in the Gulf and don't forget about the gorgeous sunsets!</p>
-                </div>
-                <div class="activity-element col-md-4">
-                    <img src="images/beachclub/shopping_01_FIXED.jpg"/>
-                    <h2>Shopping</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin nisi vel lectus ultrices finibus. Phasellus maximus tincidunt odio et laoreet. In fermentum eu risus a lacinia.</p>
-                </div>
-                <div class="activity-element col-md-4">
-                    <img src="images/beachclub/golf_01_FIXED.jpg"/>
-                    <h2>Golf</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin nisi vel lectus ultrices finibus. Phasellus maximus tincidunt odio et laoreet. In fermentum eu risus a lacinia.</p>
-                </div>
-                <div class="clearfix"></div>
-                <div class="activity-element col-md-4">
-                    <img src="images/beachclub/food_01_FIXED.jpg"/>
-                    <h2>Eating</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin nisi vel lectus ultrices finibus. Phasellus maximus tincidunt odio et laoreet. In fermentum eu risus a lacinia.</p>
-                </div>
-                <div class="activity-element col-md-4">
-                    <img src="images/beachclub/waterStuff_01.jpg"/>
-                    <h2>Water Life</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin nisi vel lectus ultrices finibus. Phasellus maximus tincidunt odio et laoreet. In fermentum eu risus a lacinia.</p>
-                </div>
-                <div class="activity-element col-md-4">
-                    <img src="images/beachclub/rollerCoaster.jpg"/>
-                    <h2>Shore Life</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin nisi vel lectus ultrices finibus. Phasellus maximus tincidunt odio et laoreet. In fermentum eu risus a lacinia.</p>
-                </div>
+                  <div class="activity-element col-md-4">
+                      <img src="images/beachclub/cuBeach_FIXED.jpg"/>
+                      <h2>The Beach</h2>
+                      <p>The Beach Club boasts one of the most pristine beaches found on the Fort Morgan Peninsula.  From wildflowers to sea birds and turtles, there is no shortage of nature to sit back and enjoy.  Keep a look out for dolphins dancing in the Gulf and don't forget about the gorgeous sunsets!</p>
+                  </div>
+                  <div class="activity-element col-md-4">
+                      <img src="images/beachclub/shopping_01_FIXED.jpg"/>
+                      <h2>Shopping</h2>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin nisi vel lectus ultrices finibus. Phasellus maximus tincidunt odio et laoreet. In fermentum eu risus a lacinia.</p>
+                  </div>
+                  <div class="activity-element col-md-4">
+                      <img src="images/beachclub/golf_01_FIXED.jpg"/>
+                      <h2>Golf</h2>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin nisi vel lectus ultrices finibus. Phasellus maximus tincidunt odio et laoreet. In fermentum eu risus a lacinia.</p>
+                  </div>
+                  <div class="activity-element col-md-4">
+                      <img src="images/beachclub/clubhouse_thumb.jpg"/>
+                      <h2>The Club</h2>
+                      <p>The Clubhouse is an on-site 'Country Club Style' clubhouse that includes many amenities you will enjoy without ever leaving the complex.  It sports many poolside activities including favorites
+                      such as karoke, dive-in movies, and poolside crafts.  The Clubhouse has a year round indoor pool great for exercise and play.  It also has a gorgeous outdoor pool with poolside service offering a wide variety
+                      of food and drink. Private cabanas are avaliable for rent upon request, as well.  There is also a children's pool, great for toddlers and babies alike!  If fitness is what your after, The Clubhouse has a great fitness center with
+                      machines and free weights, as well as fitness classes in the morning.  Grab your kids and head to The Clubhouse Arcade which includes games such as air hockey, foosball, and three Xbox 360s. The best part is...the games are complimentary for all guests!  </p>
+                  </div>
+                  <div class="clearfix"></div>
+                  <div class="activity-element col-md-4">
+                      <img src="images/beachclub/food_01_FIXED.jpg"/>
+                      <h2>Eating</h2>
+                      <p>The Beach Club has some delicious places to eat all close by!  It boasts The Coast, a fine restaurant located within The Clubhouse and a premier choice for both locals and visitors, overlooking the Gulf of Mexico.  The Gulfside Bar and Grille by the club pool allows you to enjoy a burger or a drink while lounging next to the pool.
+                      The Village Center which consists of The Village Hideaway, a casual sports bar for everyone including kids.  It offers an exciting new gathering place to enjoy delicious food, drinks, games and good times including an extensive selection of craft beers, pool tables, shuffleboard, video games and 11 flat screen TVs.  The Village Creamery featuring delicious gourmet coffee and espresso drinks with fresh-baked breakfast goods as well as hand-dipped ice cream, specialty shakes, and refreshing fruit smoothies.  </p>
+                  </div>
+                  <div class="activity-element col-md-4">
+                      <img src="images/beachclub/waterStuff_01.jpg"/>
+                      <h2>Water Life</h2>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin nisi vel lectus ultrices finibus. Phasellus maximus tincidunt odio et laoreet. In fermentum eu risus a lacinia.</p>
+                  </div>
+                  <div class="activity-element col-md-4">
+                      <img src="images/beachclub/rollerCoaster.jpg"/>
+                      <h2>Shore Life</h2>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin nisi vel lectus ultrices finibus. Phasellus maximus tincidunt odio et laoreet. In fermentum eu risus a lacinia.</p>
+                  </div>
 
             </section>
 
@@ -207,7 +216,7 @@
                 <img id="guest" class="img-responsive bookImg" src="images/beachclub/guest-book.png">
             </div>
             <section id="guestBook" class="row">
-                <h1>Guest Book</h1> 
+                <h1>Guest Book</h1>
                 <div id="disqus_thread"></div>
                 <script>
 
@@ -228,7 +237,7 @@
                 })();
                 </script>
                 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                                    
+
             </section>
             <div class="col-xs-4 col-xs-offset-4">
                 <img id="contact" class="img-responsive bookImg" src="images/beachclub/contact.png">
@@ -264,7 +273,7 @@
 
         </div>
         <footer class="container-fluid">
-            
+
             <h4><i class="fa fa-copyright" aria-hidden="true"></i> 2016 The Lauran Group</h4>
             <div>
                 <h4>Find Us On:</h4>
