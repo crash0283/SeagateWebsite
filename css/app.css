@@ -148,6 +148,14 @@ p {
         border-radius: 180px;
 }
 
+.rates {
+    text-align: center;
+}
+
+.deposit {
+    font-weight: bold;
+}
+
 .contact-us {
         margin: 50px;
         text-align: center;

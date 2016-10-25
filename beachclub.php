@@ -185,16 +185,31 @@
                     <a href="images/beachclub/twinbeds.jpg" data-ngthumb="images/beachclub/twinbeds_THUMB.jpg">Third Bedroom</a>
 
                 </div>
-                <h3 id="panoTitle" style="text-align: center; margin-top: 30px;">Panorama of The Beach Club</h3>
                 <div class="pano">
                     <iframe width="600" height="400" allowfullscreen style="border-style:none;" src="http://cdn.pannellum.org/2.2/pannellum.htm?panorama=http%3A//i.imgur.com/ZEBmx9d.jpg"></iframe>
                 </div>
+            </section>
+            
+            <section class="row">
+                <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/beachclub/family_beach.jpg');"></div>
             </section>
             <div class="col-xs-4 col-xs-offset-4">
                 <img id="reserve" class="img-responsive bookImg" src="images/beachclub/calendar.png">
             </div>
             <section class="row reserveMe">
                 <h1 id="ratesReservations" style="text-align: center; margin-top: 30px;">Rates and Reservations</h1>
+                <div class="rates">
+                    <h4><strong>Winter (November - February):</strong>    $1350/week plus deposit</h4>
+                    <h4><strong>Spring (March - Mid-May):</strong>    $1550/week plus deposit</h4>
+                    <h4><strong>Early Summer (Mid-May - Mid-June):</strong>    $1850/week plus deposit</h4>
+                    <h4><strong>Summer (Mid-June - July):</strong>    $2350/week plus deposit</h4>
+                    <h4><strong>Late Summer (August):</strong>    $1850/week plus deposit</h4>
+                    <h4><strong>Fall (September - October):</strong>    $1550/week plus deposit</h4>
+                    <h4><strong>Monthly Fall:</strong>    $2750/month plus deposit</h4>
+                    <h4><strong>Monthly Winter:</strong>    $2250/month plus deposit</h4>
+                    <br>
+                    <h5 class="deposit">** Prices include cleaning and taxes for the period rented.  $300.00 Security/Key Deposit is refunded upon return of keys and due at time of booking.  Full amount due 30 days prior to arrival.</h5>
+                </div>
                 <div class="col-md-6 col-md-offset-4" style="margin-top: 30px; margin-bottom: 30px;">
                     <!-- OwnerRez Three Month Calendar widget for The Beach Club A1506 -->
                     <div class="ownerrez-widget" data-widgetId="ad60278d908e4fff8660e646d301d73e" data-propertyId="03228a3536ec48ca8df7ab6044437e28"></div>
@@ -206,7 +221,7 @@
                     <script type="text/javascript" src="https://secure.ownerreservations.com/widget.js"></script>
                 </div>
             </section>
-
+            <!--Add New Picture Here -->
             <section class="row">
                 <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/beachclub/family_beach.jpg');"></div>
             </section>
