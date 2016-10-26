@@ -121,39 +121,6 @@
 
             <section id="activities" class="row activity-section">
                 <h1 id="activityTitle">So Much To Do...</h1>
-                <div class="activity-element col-md-4">
-                    <img src="images/beachclub/cuBeach_FIXED.jpg"/>
-                    <h2>The Beach</h2>
-                    <p>The Beach Club boasts one of the most pristine beaches found on the Fort Morgan Peninsula.  From wildflowers to sea birds and turtles, there is no shortage of nature to sit back and enjoy.  Keep a look out for dolphins dancing in the Gulf and don't forget about the gorgeous sunsets!</p>
-                </div>
-                <div class="activity-element col-md-4">
-                    <img src="images/beachclub/shopping_01_FIXED.jpg"/>
-                    <h2>Shopping</h2>
-                    <p>If shopping is your thing, Gulf Shores has plenty of great places to fit your taste.  SanRoc Cay is home to some unique courtyard events, shopping, dining, and everything in-between.  There are many shops and boutiques here that taylor to your style.  The Wharf of Orange Beach is a family entertainment district with plenty of shopping.  Everything from electronics to clothing, The Wharf has it all!  Looking for a great outlet center, Tanger Outlets is just the place!  The bargin hunter's paradise, Tanger Outlets features brand-name merchandise from Banana Republic, Eddie Bauer, and The Gap!   </p>
-                </div>
-                <div class="activity-element col-md-4">
-                    <img src="images/beachclub/golf_01_FIXED.jpg"/>
-                    <h2>Golf</h2>
-                    <p>The Gulf Coast has some of the best golf courses in the country and Gulf Shores is no exception. Right down the street from The Beach Club, the #1 rated golf course in Alabama, Kiva Dunes, is a must play.  Designed by former U.S. Open Champion Jerry Pate, this course is one of America's finest and has been featured in many golf publications including USGA Golf Journal and Golf Course Living.  Kiva Dunes offers many amenities including a full-service clubhouse, meeting facilities, fitness area, swimming pools, and a private beach.  Perdido Bay is another gorgeous course on the Gulf Coast.  Open 7 days a week to the public, they feature chipping and putting greens, a driving range, and a full-service clubhouse.  Designed by Earl Stone, Peninsula Golf Club boasts a 27-hole layout set on beautiful Mobile Bay.  It features more than 30 lakes and accomodations include a full-service clubhouse, swimming pools, and fitness center.  </p>
-                </div>
-                <div class="clearfix"></div>
-                <div class="activity-element col-md-4">
-                      <img src="images/beachclub/rollerCoaster.jpg"/>
-                      <h2>Shore Fun</h2>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin nisi vel lectus ultrices finibus. Phasellus maximus tincidunt odio et laoreet. In fermentum eu risus a lacinia.</p>
-                </div>
-                <div class="activity-element col-md-4">
-                    <img src="images/beachclub/food_01_FIXED.jpg"/>
-                    <h2>Eating</h2>
-                    <p>The Beach Club has some delicious places to eat all close by!  It boasts <a href="images/beachclub/Coast-Fall_Winter-2016-Menu.pdf">The Coast</a>, a fine restaurant located within The Clubhouse and a premier choice for both locals and visitors, overlooking the Gulf of Mexico.  <a href="images/beachclub/Gulfside-Grill-Menu.pdf">The Gulfside Bar and Grill</a> by the club pool allows you to enjoy a burger or a drink while lounging next to the pool.
-                      The Village Center which consists of <a href="images/beachclub/Village-Hideaway_Menu.pdf">The Village Hideaway</a>, a casual sports bar for everyone including kids.  It offers an exciting new gathering place to enjoy delicious food, drinks, games and good times including an extensive selection of craft beers, pool tables, shuffleboard, video games and 11 flat screen TVs.  <strong>The Village Creamery</strong> featuring delicious gourmet coffee and espresso drinks with fresh-baked breakfast goods as well as hand-dipped ice cream, specialty shakes, and refreshing fruit smoothies.  <a href="images/beachclub/lulusMenu.jpg">Lulu's</a> at Homeport Marina is another great place for savory burgers and refreshing drinks.  It also features some great live music, as well! </p>
-                </div>
-                <div class="activity-element col-md-4">
-                    <img src="images/beachclub/waterStuff_01.jpg"/>
-                    <h2>Water Fun</h2>
-                    <p>There is always something to do in the water when you are down at The Beach Club!  From Deep Sea Fishing to Dolphin Cruises, its got it all!  <a href="http://www.robsinshore.com">Rob's Inshore Fishing</a> guarantees a great time out on the Gulf with its year round fishing and sunset cruises.  If you are interested in seeing more of the wildlife the Gulf has to offer, <a href="http://dolphincruises.com/contact/locate-us-and-things-to-know/">Dolphin Cruises</a> and <a href="http://www.bluedolphincruises.com/Our-Latitude.htm">Blue Dolphin Cruises</a>, has you covered.  <a href="http://www.obboatrentals.com/">Orange Beach Boat Rentals</a> is only 25 minutes from The Beach Club and has great prices for both half day and full day rentals.  </p>
-                </div>
-                <div class="clearfix"></div>
                 <div class="activity-element col-md-4 col-md-offset-4">
                     <img src="images/beachclub/clubhouse_thumb.jpg"/>
                     <h2>The Clubhouse</h2>
@@ -162,7 +129,52 @@
                       of food and drink. Private cabanas are avaliable for rent upon request, as well.  There is also a children's pool, great for toddlers and babies alike!  If fitness is what you are after, The Clubhouse has a great fitness center with
                       machines and free weights, as well as fitness classes in the morning.  Grab your kids and head to The Clubhouse Arcade which includes games such as air hockey, foosball, and three Xbox 360s. The best part is...the games are complimentary for all guests!  </p>
                 </div>
-
+                <div class="clearfix"></div>
+                <div class="activity-element col-md-4">
+                    <img src="images/beachclub/cuBeach_FIXED.jpg"/>
+                    <h2>The Beach</h2>
+                    <p>The Beach Club boasts one of the most pristine beaches found on the Fort Morgan Peninsula.  From wildflowers to sea birds and turtles, there is no shortage of nature to sit back and enjoy.  Keep a look out for dolphins dancing in the Gulf and don't forget about the gorgeous sunsets!</p>
+                </div>
+                <div class="activity-element col-md-4">
+                    <img src="images/beachclub/shopping_01_FIXED.jpg"/>
+                    <h2>Shopping</h2>
+                    <p>If shopping is your thing, Gulf Shores has plenty of great places to fit your taste.  <a href="http://www.sanroccay.com/">SanRoc Cay</a> is home to some unique courtyard events, shopping, dining, and everything in-between.  There are many shops and boutiques here that taylor to your style.  <a href="http://www.alwharf.com/">The Wharf of Orange Beach</a> is a family entertainment district with plenty of shopping.  Everything from electronics to clothing, The Wharf has it all!  Looking for a great outlet center, <a href="http://www.tangeroutlet.com/">Tanger Outlets</a> is just the place!  The bargin hunter's paradise, Tanger Outlets features brand-name merchandise from Banana Republic, Eddie Bauer, and The Gap!   </p>
+                </div>
+                <div class="activity-element col-md-4">
+                    <img src="images/beachclub/golf_01_FIXED.jpg"/>
+                    <h2>Golf</h2>
+                    <p>The Gulf Coast has some of the best golf courses in the country and Gulf Shores is no exception. Right down the street from The Beach Club, the #1 rated golf course in Alabama, <a href="http://www.kivadunes.com/">Kiva Dunes</a>, is a must play.  Designed by former U.S. Open Champion Jerry Pate, this course is one of America's finest and has been featured in many golf publications including USGA Golf Journal and Golf Course Living.  Kiva Dunes offers many amenities including a full-service clubhouse, meeting facilities, fitness area, swimming pools, and a private beach.  <a href="http://www.perdidobaygolf.com/">Perdido Bay</a> is another gorgeous course on the Gulf Coast.  Open 7 days a week to the public, they feature chipping and putting greens, a driving range, and a full-service clubhouse.  Designed by Earl Stone, <a href="http://www.peninsulagolfclub.com/club/scripts/public/public.asp?GRP=18396&NS=PUBLIC">Peninsula Golf Club</a> boasts a 27-hole layout set on beautiful Mobile Bay.  It features more than 30 lakes and accomodations include a full-service clubhouse, swimming pools, and fitness center.  </p>
+                </div>
+                <div class="clearfix"></div>
+                <div class="activity-element col-md-4">
+                      <img src="images/beachclub/rollerCoaster.jpg"/>
+                      <h2>The Shore</h2>
+                      <p>Take a break from the water and enjoy some of these great inland activities.  <strong>The Village Lawn</strong> is the new hub of food, family, and fun all summer long!  Located at the north end of The Beach Club, this is a place where the kids can run free and the parents can rest easy with drinks and dining, live music nightly, and activities for the whole family.  With over 250 animals, the <a href="http://www.alabamagulfcoastzoo.com/">Alabama Gulf Coast Zoo</a> is a fantastic place to take the whole family.  From aviaries to petting zoos, this zoo has it all.  If you want to drive a little further, <a href="http://www.oakhollowfarm.net/">Oak Hollow Farm</a> is a fun and rustic setting that offers guided trail rides, hayrides, skeet shooting, and fishing.  For the historic buffs, tour the <a href="http://www.ussalabama.com/">Battleship USS Alabama</a> or many other historical vessels.  These are all available for personal viewing and will satisfy anyone's curiosity.</p>
+                </div>
+                <div class="activity-element col-md-4">
+                    <img src="images/beachclub/food_01_FIXED.jpg"/>
+                    <h2>Eating</h2>
+                    <p>The Beach Club has some delicious places to eat all close by!  It boasts <a href="images/beachclub/Coast-Fall_Winter-2016-Menu.pdf">The Coast</a>, a fine restaurant located within The Clubhouse and a premier choice for both locals and visitors, overlooking the Gulf of Mexico.  <a href="images/beachclub/Gulfside-Grill-Menu.pdf">The Gulfside Bar and Grill</a> by the club pool allows you to enjoy a burger or a drink while lounging next to the pool.
+                    The Village Center which consists of <a href="images/beachclub/Village-Hideaway_Menu.pdf">The Village Hideaway</a>, a casual sports bar for everyone including kids.  It offers an exciting new gathering place to enjoy delicious food, drinks, games and good times including an extensive selection of craft beers, pool tables, shuffleboard, video games and 11 flat screen TVs.  <strong>The Village Creamery</strong> featuring delicious gourmet coffee and espresso drinks with fresh-baked breakfast goods as well as hand-dipped ice cream, specialty shakes, and refreshing fruit smoothies.  <a href="images/beachclub/lulusMenu.jpg">Lulu's</a> at Homeport Marina is another great place for savory burgers and refreshing drinks.  It also features some great live music, as well! </p>
+                    <br>
+                    <p>Other great places to eat include:</p>
+                    <ul style="list-style: none;">
+                        <li><a href="http://www.originaloysterhouse.com/gulf-shores-restaurant.php">Original Oyster House</a></li>
+                        <li><a href="http://www.thelouisianalagniappe.com/#home">Louisiana Lagniappe</a></li>
+                        <li><a href="http://www.tackyjacks.com">Tacky Jacks</a></li>
+                        <li><a href="http://www.thehangout.com">The Hangout</a></li>
+                        <li><a href="http://www.cobaltrestaurant.net">Cobalt The Restaurant</a></li>
+                        <li><a href="http://www.thegulf.com">The Gulf</a></li>
+                        <li><a href="http://www.cafe-grazie.com/#home">Cafe Grazie</a></li>
+                        <li><a href="http://www.villaggiogrille.com">Villaggio Grill at The Wharf</a></li>
+                        <li><a href="http://www.tintoprestaurant.com">Tin Top Restaurant & Oyster Bar</a></li>
+                    </ul>
+                </div>
+                <div class="activity-element col-md-4">
+                    <img src="images/beachclub/waterStuff_01.jpg"/>
+                    <h2>The Water</h2>
+                    <p>There is always something to do in the water when you are down at The Beach Club!  From Deep Sea Fishing to Dolphin Cruises, its got it all!  <a href="http://www.robsinshore.com">Rob's Inshore Fishing</a> guarantees a great time out on the Gulf with its year round fishing and sunset cruises.  If you are interested in seeing more of the wildlife the Gulf has to offer, <a href="http://dolphincruises.com/contact/locate-us-and-things-to-know/">Dolphin Cruises</a> and <a href="http://www.bluedolphincruises.com/Our-Latitude.htm">Blue Dolphin Cruises</a>, has you covered.  <a href="http://www.obboatrentals.com/">Orange Beach Boat Rentals</a> is only 25 minutes from The Beach Club and has great prices for both half day and full day rentals.  </p>
+                </div>
             </section>
 
             <section class="row">
@@ -225,7 +237,7 @@
             </section>
             <!--Add New Picture Here -->
             <section class="row">
-                <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/beachclub/family_beach.jpg');"></div>
+                <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/beachclub/overhead_pool.jpg');"></div>
             </section>
             <div class="col-xs-4 col-xs-offset-4">
                 <img id="guest" class="img-responsive bookImg" src="images/beachclub/guest-book.png">
