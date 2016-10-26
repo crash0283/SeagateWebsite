@@ -129,22 +129,19 @@
                 <div class="activity-element col-md-4">
                     <img src="images/beachclub/shopping_01_FIXED.jpg"/>
                     <h2>Shopping</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin nisi vel lectus ultrices finibus. Phasellus maximus tincidunt odio et laoreet. In fermentum eu risus a lacinia.</p>
+                    <p>If shopping is your thing, Gulf Shores has plenty of great places to fit your taste.  SanRoc Cay is home to some unique courtyard events, shopping, dining, and everything in-between.  There are many shops and boutiques here that taylor to your style.  The Wharf of Orange Beach is a family entertainment district with plenty of shopping.  Everything from electronics to clothing, The Wharf has it all!  Looking for a great outlet center, Tanger Outlets is just the place!  The bargin hunter's paradise, Tanger Outlets features brand-name merchandise from Banana Republic, Eddie Bauer, and The Gap!   </p>
                 </div>
                 <div class="activity-element col-md-4">
                     <img src="images/beachclub/golf_01_FIXED.jpg"/>
                     <h2>Golf</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin nisi vel lectus ultrices finibus. Phasellus maximus tincidunt odio et laoreet. In fermentum eu risus a lacinia.</p>
-                </div>
-                <div class="activity-element col-md-4">
-                    <img src="images/beachclub/clubhouse_thumb.jpg"/>
-                    <h2>The Club</h2>
-                    <p>The Clubhouse is an on-site 'Country Club Style' clubhouse that includes many amenities you will enjoy without ever leaving the complex.  It sports many poolside activities including favorites
-                      such as karoke, dive-in movies, and poolside crafts.  The Clubhouse has a year round indoor pool great for exercise and play.  It also has a gorgeous outdoor pool with poolside service offering a wide variety
-                      of food and drink. Private cabanas are avaliable for rent upon request, as well.  There is also a children's pool, great for toddlers and babies alike!  If fitness is what you are after, The Clubhouse has a great fitness center with
-                      machines and free weights, as well as fitness classes in the morning.  Grab your kids and head to The Clubhouse Arcade which includes games such as air hockey, foosball, and three Xbox 360s. The best part is...the games are complimentary for all guests!  </p>
+                    <p>The Gulf Coast has some of the best golf courses in the country and Gulf Shores is no exception. Right down the street from The Beach Club, the #1 rated golf course in Alabama, Kiva Dunes, is a must play.  Designed by former U.S. Open Champion Jerry Pate, this course is one of America's finest and has been featured in many golf publications including USGA Golf Journal and Golf Course Living.  Kiva Dunes offers many amenities including a full-service clubhouse, meeting facilities, fitness area, swimming pools, and a private beach.  Perdido Bay is another gorgeous course on the Gulf Coast.  Open 7 days a week to the public, they feature chipping and putting greens, a driving range, and a full-service clubhouse.  Designed by Earl Stone, Peninsula Golf Club boasts a 27-hole layout set on beautiful Mobile Bay.  It features more than 30 lakes and accomodations include a full-service clubhouse, swimming pools, and fitness center.  </p>
                 </div>
                 <div class="clearfix"></div>
+                <div class="activity-element col-md-4">
+                      <img src="images/beachclub/rollerCoaster.jpg"/>
+                      <h2>Shore Fun</h2>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin nisi vel lectus ultrices finibus. Phasellus maximus tincidunt odio et laoreet. In fermentum eu risus a lacinia.</p>
+                </div>
                 <div class="activity-element col-md-4">
                     <img src="images/beachclub/food_01_FIXED.jpg"/>
                     <h2>Eating</h2>
@@ -156,11 +153,16 @@
                     <h2>Water Fun</h2>
                     <p>There is always something to do in the water when you are down at The Beach Club!  From Deep Sea Fishing to Dolphin Cruises, its got it all!  <a href="http://www.robsinshore.com">Rob's Inshore Fishing</a> guarantees a great time out on the Gulf with its year round fishing and sunset cruises.  If you are interested in seeing more of the wildlife the Gulf has to offer, <a href="http://dolphincruises.com/contact/locate-us-and-things-to-know/">Dolphin Cruises</a> and <a href="http://www.bluedolphincruises.com/Our-Latitude.htm">Blue Dolphin Cruises</a>, has you covered.  <a href="http://www.obboatrentals.com/">Orange Beach Boat Rentals</a> is only 25 minutes from The Beach Club and has great prices for both half day and full day rentals.  </p>
                 </div>
-                <div class="activity-element col-md-4">
-                      <img src="images/beachclub/rollerCoaster.jpg"/>
-                      <h2>Shore Fun</h2>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sollicitudin nisi vel lectus ultrices finibus. Phasellus maximus tincidunt odio et laoreet. In fermentum eu risus a lacinia.</p>
+                <div class="clearfix"></div>
+                <div class="activity-element col-md-4 col-md-offset-4">
+                    <img src="images/beachclub/clubhouse_thumb.jpg"/>
+                    <h2>The Clubhouse</h2>
+                    <p>The Clubhouse is an on-site 'Country Club Style' clubhouse that includes many amenities you will enjoy without ever leaving the complex.  It sports many poolside activities including favorites
+                      such as karoke, dive-in movies, and poolside crafts.  The Clubhouse has a year round indoor pool great for exercise and play.  It also has a gorgeous outdoor pool with poolside service offering a wide variety
+                      of food and drink. Private cabanas are avaliable for rent upon request, as well.  There is also a children's pool, great for toddlers and babies alike!  If fitness is what you are after, The Clubhouse has a great fitness center with
+                      machines and free weights, as well as fitness classes in the morning.  Grab your kids and head to The Clubhouse Arcade which includes games such as air hockey, foosball, and three Xbox 360s. The best part is...the games are complimentary for all guests!  </p>
                 </div>
+
             </section>
 
             <section class="row">
@@ -189,7 +191,7 @@
                     <iframe width="600" height="400" allowfullscreen style="border-style:none;" src="http://cdn.pannellum.org/2.2/pannellum.htm?panorama=http%3A//i.imgur.com/ZEBmx9d.jpg"></iframe>
                 </div>
             </section>
-            
+
             <section class="row">
                 <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/beachclub/family_beach.jpg');"></div>
             </section>
