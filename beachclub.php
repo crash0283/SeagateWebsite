@@ -247,7 +247,6 @@
                     <script type="text/javascript" src="https://secure.ownerreservations.com/widget.js"></script>
                 </div>
             </section>
-            <!--Add New Picture Here -->
             <section class="row">
                 <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/beachclub/overhead_pool.jpg');"></div>
             </section>
