@@ -188,18 +188,27 @@
                     <a href="images/beachclub/avalonfront.jpg" data-ngthumb="images/beachclub/avalonfront_THUMB.jpg">The Avalon Building</a>
                     <a href="images/beachclub/avalonpool.jpg" data-ngthumb="images/beachclub/avalonpool_THUMB.jpg">The Avalon Pool</a>
                     <a href="images/beachclub/hotpool.jpg" data-ngthumb="images/beachclub/hotpool_THUMB.jpg">Hot Tub</a>
+                    <a href="images/beachclub/Clubhouse_Entrance_FIXED.jpg" data-ngthumb="images/beachclub/Clubhouse_Entrance_THUMB.jpg">The Clubhouse Entrance</a>
                     <a href="images/beachclub/Clubhouse_FIXED.jpg" data-ngthumb="images/beachclub/Clubhouse_THUMB.jpg">The Clubhouse</a>
                     <a href="images/beachclub/Clubhouse_Pool_FIXED" data-ngthumb="images/beachclub/Clubhouse_Pool_THUMB.jpg">The Clubhouse Pool</a>
                     <a href="images/beachclub/Clubhouse_FitnessRoom_FIXED.jpg" data-ngthumb="images/beachclub/Clubhouse_FitnessRoom_THUMB.jpg">The Clubhouse Fitness Area</a>
+                    <a href="images/beachclub/Clubhouse_GameRoom_FIXED.jpg" data-ngthumb="images/beachclub/Clubhouse_GameRoom_THUMB.jpg">The Clubhouse Gameroom</a>
+                    <a href="images/beachclub/VillageCreamery_FIXED.jpg" data-ngthumb="images/beachclub/VillageCreamery_THUMB.jpg">The Village Creamery</a>
+                    <a href="images/beachclub/TennisCourt_FIXED.jpg" data-ngthumb="images/beachclub/TennisCourt_THUMB.jpg">Tennis Courts</a>
+                    <a href="images/beachclub/BeachView_FIXED.jpg" data-ngthumb="images/beachclub/BeachView_THUMB.jpg">Beach View From Balcony</a>
                     <a href="images/beachclub/balconyocean.jpg" data-ngthumb="images/beachclub/balconyocean_THUMB.jpg">Balcony</a>
+                    <a href="images/beachclub/Grill_FIXED.jpg" data-ngthumb="images/beachclub/Grill_THUMB.jpg">Grill On Balcony</a>
                     <a href="images/beachclub/diningonly.jpg" data-ngthumb="images/beachclub/diningonly_THUMB.jpg">Dining Room</a>
                     <a href="images/beachclub/diningroom.jpg" data-ngthumb="images/beachclub/diningroom_THUMB.jpg">Dining Room</a>
                     <a href="images/beachclub/kitchendining.jpg" data-ngthumb="images/beachclub/kitchendining_THUMB.jpg">Dining Room Into Kitchen</a>
                     <a href="images/beachclub/livingroom.jpg" data-ngthumb="images/beachclub/livingroom_THUMB.jpg">Living Room</a>
+                    <a href="images/beachclub/LivingRoom_FIXED.jpg" data-ngthumb="images/beachclub/LivingRoom_THUMB.jpg">Living Room</a>
                     <a href="images/beachclub/masterbedroom.jpg" data-ngthumb="images/beachclub/masterbedroom_THUMB.jpg">Master Bedroom</a>
                     <a href="images/beachclub/masterbath.jpg" data-ngthumb="images/beachclub/masterbath_THUMB.jpg">Master Bathroom</a>
                     <a href="images/beachclub/secondbedandbath.jpg" data-ngthumb="images/beachclub/secondbedandbath_THUMB.jpg">Second Bedroom</a>
                     <a href="images/beachclub/twinbeds.jpg" data-ngthumb="images/beachclub/twinbeds_THUMB.jpg">Third Bedroom</a>
+                    <a href="images/beachclub/GuestBath_FIXED.jpg" data-ngthumb="images/beachclub/GuestBath_THUMB.jpg">Guest Bath</a>
+
 
                 </div>
                 <div class="pano">
