@@ -188,6 +188,7 @@
                     <a href="images/beachclub/avalonfront.jpg" data-ngthumb="images/beachclub/avalonfront_THUMB.jpg">The Avalon Building</a>
                     <a href="images/beachclub/avalonpool.jpg" data-ngthumb="images/beachclub/avalonpool_THUMB.jpg">The Avalon Pool</a>
                     <a href="images/beachclub/hotpool.jpg" data-ngthumb="images/beachclub/hotpool_THUMB.jpg">Hot Tub</a>
+                    <a href="images/beachclub/Clubhouse_FIXED.jpg" data-ngthumb="images/beachclub/Clubhouse_THUMB.jpg">The Clubhouse</a>
                     <a href="images/beachclub/balconyocean.jpg" data-ngthumb="images/beachclub/balconyocean_THUMB.jpg">Balcony</a>
                     <a href="images/beachclub/diningonly.jpg" data-ngthumb="images/beachclub/diningonly_THUMB.jpg">Dining Room</a>
                     <a href="images/beachclub/diningroom.jpg" data-ngthumb="images/beachclub/diningroom_THUMB.jpg">Dining Room</a>
