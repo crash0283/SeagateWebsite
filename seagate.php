@@ -1,14 +1,14 @@
 <html>
 
     <head>
-        <title>The Beach Club - A1506</title>
+        <title>Sea Gate - 205</title>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
         <meta charset="utf-8">
         <link rel="stylesheet" href="css/animate.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
         <script src="https://use.fontawesome.com/87f3604e24.js"></script>
-        <link href="https://fonts.googleapis.com/css?family=Scope+One" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Scope+One|IM+Fell+DW+Pica" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="js/pannellum/pannellum.css">
         <link rel="stylesheet" href="css/app.css">
         <link rel="stylesheet" type="text/css" href="css/themes/light/nanogallery_light.css">
@@ -19,7 +19,7 @@
 
         <header id="top">
 
-            <nav class="navbar navbar-inverse navbar-fixed-top cbp-af-header">
+            <nav class="navbar navbar-default navbar-fixed-top cbp-af-header">
                 <div class="container-fluid">
                     <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="navbar-header">
@@ -66,8 +66,9 @@
         </header>
         <div class="container-fluid">
             <section class="row title-row">
-                <div class="fill-screen stellar-bg" style="background-image: url('images/beachclub/balcony-sml.jpg')" data-stellar-background-ratio="0.2">
-                    <img class="img-responsive title-image" src="images/Beach-Club-Logo.png" alt="The Beach Club"/>
+                <div class="fill-screen stellar-bg" style="background-image: url('images/seagate/balcony.jpg')" data-stellar-background-ratio="0.2">
+                    <h1 class="title-image">Sea Gate</h1>
+                    <h2 class="title-image-cont">Condominiums</h2>
                     <div class="down-button">
                         <a class="btn" href="#accommodations">
                             <i class="fa fa-arrow-circle-down fa-4x"></i>
@@ -78,8 +79,8 @@
 
             <section class="row text-banner">
                 <div id="descript">
-                    <img id="beachIcon" src="images/beachclub/sunbed.png" alt="" />
-                    <h1>Come and Relax...</h1>
+                    <img id="beachIcon" src="images/seagate/beach.png" alt="" />
+                    <h1>Paradise Awaits...</h1>
                     <p class='lead'>Beach Club
                         <strong>A1506</strong>
                         is a gorgeous beachfront condominium located on Fort Morgan Peninsula near beautiful Gulf Shores, Alabama.</p>
@@ -324,6 +325,7 @@
             <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
             <div>Icons made by <a href="http://www.flaticon.com/authors/epiccoders" title="EpicCoders">EpicCoders</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
             <div>Icons made by <a href="http://www.flaticon.com/authors/madebyoliver" title="Madebyoliver">Madebyoliver</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+            <div>Icons made by <a href="http://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
         </footer>
 
         <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
