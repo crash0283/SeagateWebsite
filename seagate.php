@@ -221,7 +221,7 @@
                 <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/beachclub/family_beach.jpg');"></div>
             </section>
             <div class="col-xs-4 col-xs-offset-4">
-                <img id="reserve" class="img-responsive bookImg" src="images/beachclub/calendar.png">
+                <img id="reserve" class="img-responsive bookImg" src="images/seagate/calendar.png">
             </div>
             <section class="row reserveMe">
                 <h1 id="ratesReservations" style="text-align: center; margin-top: 30px;">Rates and Reservations</h1>
@@ -252,7 +252,7 @@
                 <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/beachclub/overhead_pool.jpg');"></div>
             </section>
             <div class="col-xs-4 col-xs-offset-4">
-                <img id="guest" class="img-responsive bookImg" src="images/beachclub/guest-book.png">
+                <img id="guest" class="img-responsive bookImg" src="images/seagate/guest-book.png">
             </div>
             <section id="guestBook" class="row">
                 <h1>Guest Book</h1>
@@ -279,7 +279,7 @@
 
             </section>
             <div class="col-xs-4 col-xs-offset-4">
-                <img id="contact" class="img-responsive bookImg" src="images/beachclub/contact.png">
+                <img id="contact" class="img-responsive bookImg" src="images/seagate/contact.png">
             </div>
             <section id="contact-me" class="row">
                 <div class="contact-us">
@@ -321,8 +321,6 @@
             <br>
             <br>
             <h4>Credits:</h4>
-            <div>Icons made by <a href="http://www.flaticon.com/authors/madebyoliver" title="Madebyoliver">Madebyoliver</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
-            <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
             <div>Icons made by <a href="http://www.flaticon.com/authors/epiccoders" title="EpicCoders">EpicCoders</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
             <div>Icons made by <a href="http://www.flaticon.com/authors/madebyoliver" title="Madebyoliver">Madebyoliver</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
             <div>Icons made by <a href="http://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
