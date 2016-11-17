@@ -66,7 +66,7 @@
         </header>
         <div class="container-fluid">
             <section class="row title-row">
-                <div class="fill-screen stellar-bg" style="background-image: url('images/seagate/balcony.jpg')" data-stellar-background-ratio="0.2">
+                <div class="fill-screen stellar-bg" style="background-image: url('images/seagate/Balcony_FIXED.jpg')" data-stellar-background-ratio="0.2">
                     <h1 class="title-image">Sea Gate</h1>
                     <h2 class="title-image-cont">Condominiums</h2>
                     <div class="down-button">
@@ -81,9 +81,9 @@
                 <div id="descript">
                     <img id="beachIcon" src="images/seagate/beach.png" alt="" />
                     <h1>Paradise Awaits...</h1>
-                    <p class='lead'>Beach Club
-                        <strong>A1506</strong>
-                        is a gorgeous beachfront condominium located on Fort Morgan Peninsula near beautiful Gulf Shores, Alabama.</p>
+                    <p class='lead'><strong>Sea Gate
+                        205</strong>
+                        is a gorgeous beachfront condominium located in Indian Shores, FL near beautiful Clearwater Beach, FL.</p>
                         <p>Our condo is located on the 15th floor and is professionally decorated.  This is a 1400 square foot condo that features a full balcony view of the Gulf of Mexico and <strong>BEAUTIFUL</strong> sunsets daily! </p>
                     <br>
                     <p>
@@ -116,21 +116,12 @@
 
             <section class="row">
 
-                <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/beachclub/beach_FIXED.jpg')"></div>
+                <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/seagate/Beach_FIXED.jpg')"></div>
 
             </section>
 
             <section id="activities" class="row activity-section">
                 <h1 id="activityTitle">So Much To Do...</h1>
-                <div class="activity-element col-md-4 col-md-offset-4">
-                    <img src="images/beachclub/clubhouse_thumb.jpg"/>
-                    <h2>The Clubhouse</h2>
-                    <p>The Clubhouse is an on-site 'Country Club Style' clubhouse that includes many amenities you will enjoy without ever leaving the complex.  It sports many poolside activities including favorites
-                      such as karoke, dive-in movies, and poolside crafts.  The Clubhouse has a year round indoor pool great for exercise and play.  It also has a gorgeous outdoor pool with poolside service offering a wide variety
-                      of food and drink. Private cabanas are avaliable for rent upon request, as well.  There is also a children's pool, great for toddlers and babies alike!  If fitness is what you are after, The Clubhouse has a great fitness center with
-                      machines and free weights, as well as fitness classes in the morning.  Grab your kids and head to The Clubhouse Arcade which includes games such as air hockey, foosball, and three Xbox 360s. The best part is...the games are complimentary for all guests!  </p>
-                </div>
-                <div class="clearfix"></div>
                 <div class="activity-element col-md-4">
                     <img src="images/beachclub/cuBeach_FIXED.jpg"/>
                     <h2>The Beach</h2>
@@ -179,7 +170,7 @@
             </section>
 
             <section class="row">
-                <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/beachclub/beachAndSand_CU_FIXED.jpg');"></div>
+                <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/seagate/dadDaughter.jpg');"></div>
             </section>
 
             <section id="gallery" class="row">
@@ -218,7 +209,7 @@
             </section>
 
             <section class="row">
-                <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/beachclub/family_beach.jpg');"></div>
+                <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/seagate/Turtle_01_FIXED.jpg');"></div>
             </section>
             <div class="col-xs-4 col-xs-offset-4">
                 <img id="reserve" class="img-responsive bookImg" src="images/seagate/calendar.png">
@@ -249,7 +240,7 @@
                 </div>
             </section>
             <section class="row">
-                <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/beachclub/overhead_pool.jpg');"></div>
+                <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/seagate/PalmTree_FIXED.jpg');"></div>
             </section>
             <div class="col-xs-4 col-xs-offset-4">
                 <img id="guest" class="img-responsive bookImg" src="images/seagate/guest-book.png">
