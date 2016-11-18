@@ -115,7 +115,7 @@
 
             <section class="row">
 
-                <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/seagate/Beach_FIXED.jpg')"></div>
+                <div class="fill-screen fixed-attachment img-responsive" style="background-image: url('images/seagate/Shore_FIXED.jpg')"></div>
 
             </section>
 
@@ -165,7 +165,7 @@
                     <a href="images/seagate/Building_FIXED.jpg" data-ngthumb="images/seagate/Building_THUMB.jpg">Sea Gate Exterior</a>
                     <a href="images/seagate/Pool_FIXED.jpg" data-ngthumb="images/seagate/Pool_THUMB.jpg">Pool</a>
                     <a href="images/seagate/Family_Room_FIXED.jpg" data-ngthumb="images/seagate/Living_Room_THUMB.jpg">Family Room</a>
-                    <a href="images/seagate/Dining_Room_THUMB.jpg" data-ngthumb="images/seagate/Kitchen_FIXED.jpg">Dining Room</a>
+                    <a href="images/seagate/Kitchen_FIXED.jpg" data-ngthumb="images/seagate/Kitchen_FIXED.jpg">Dining Room</a>
                     <a href="images/seagate/Kitchen_FIXED_02.jpg" data-ngthumb="images/seagate/Kitchen_THUMB.jpg">Kitchen</a>
                     <a href="images/seagate/Master_Bedroom_FIXED.jpg" data-ngthumb="images/seagate/Master_Bedroom_THUMB.jpg">Master Bedroom</a>
                     <a href="images/seagate/Master_Bathroom_FIXED.jpg" data-ngthumb="images/seagate/Master_Bathroom_THUMB.jpg">Master Bathroom</a>
@@ -173,7 +173,7 @@
                     <a href="images/seagate/Guest_Bathroom_FIXED.jpg" data-ngthumb="images/seagate/Guest_Bathroom_THUMB.jpg">Guest Bathroom</a>
                     <a href="images/seagate/Second_Guest_Bedroom_FIXED.jpg" data-ngthumb="images/seagate/Second_Guest_Bedroom_THUMB.jpg">Second Guest Bedroom</a>
                     <a href="images/seagate/Laundry_Room_FIXED.jpg" data-ngthumb="images/seagate/Laundry_Room_THUMB.jpg">Laundry Room</a>
-                    <a href="images/seagate/Balcony_FIXED.jpg" data-ngthumb="images/seagate/Balcony_THUMB.jpg">Balcony</a>
+                    <a href="images/seagate/Balcony_Gallery_FIXED.jpg" data-ngthumb="images/seagate/Balcony_THUMB.jpg">Balcony</a>
                     <a href="images/seagate/Beach_FIXED.jpg" data-ngthumb="images/seagate/Beach_THUMB.jpg">Beach</a>
 
                 </div>
