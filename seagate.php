@@ -243,13 +243,13 @@
                     <h5 class="rates deposit">** Rates do not include $150.00 cleaning fee and 13% tax.  A $300.00 refundable deposit by MasterCard or Visa is required to hold the booking.</h5>
                 </div>
                 <div class="col-md-6 col-md-offset-4" style="margin-top: 30px; margin-bottom: 30px;">
-                    <!-- OwnerRez Three Month Calendar widget for The Beach Club A1506 -->
-                    <div class="ownerrez-widget" data-widgetId="ad60278d908e4fff8660e646d301d73e" data-propertyId="03228a3536ec48ca8df7ab6044437e28"></div>
+                    <!-- OwnerRez Three Month Calendar widget for Sea Gate Unit 205 -->
+                    <div class="ownerrez-widget" data-widgetId="accd3035150346b3a816213f590bafa5" data-propertyId="1724f26b9a5644e081de4bb84b1533be"></div>
                     <script type="text/javascript" src="https://secure.ownerreservations.com/widget.js"></script>
                 </div>
                 <div class="col-md-4 col-md-offset-4" style="margin-top: 30px; margin-bottom: 30px;">
-                    <!-- OwnerRez Booking/Inquiry widget for The Beach Club A1506 -->
-                    <div class="ownerrez-widget" data-widgetId="1a74dbdd7a0141879ca83201d494f662" data-propertyId="03228a3536ec48ca8df7ab6044437e28"></div>
+                    <!-- OwnerRez Booking/Inquiry widget for Sea Gate Unit 205 -->
+                    <div class="ownerrez-widget" data-widgetId="1a74dbdd7a0141879ca83201d494f662" data-propertyId="1724f26b9a5644e081de4bb84b1533be"></div>
                     <script type="text/javascript" src="https://secure.ownerreservations.com/widget.js"></script>
                 </div>
             </section>
