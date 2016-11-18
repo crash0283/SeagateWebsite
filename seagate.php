@@ -125,47 +125,33 @@
                 <div class="activity-element col-md-4">
                     <img src="images/beachclub/cuBeach_FIXED.jpg"/>
                     <h2>The Beach</h2>
-                    <p>The Beach Club boasts one of the most pristine beaches found on the Fort Morgan Peninsula.  From wildflowers to sea birds and turtles, there is no shortage of nature to sit back and enjoy.  Keep a look out for dolphins dancing in the Gulf and don't forget about the gorgeous sunsets!</p>
+                    <p></p>
                 </div>
                 <div class="activity-element col-md-4">
                     <img src="images/beachclub/shopping_01_FIXED.jpg"/>
                     <h2>Shopping</h2>
-                    <p>If shopping is your thing, Gulf Shores has plenty of great places to fit your taste.  <a href="http://www.sanroccay.com/" target="_blank">SanRoc Cay</a> is home to some unique courtyard events, shopping, dining, and everything in-between.  There are many shops and boutiques here that taylor to your style.  <a href="http://www.alwharf.com/" target="_blank">The Wharf of Orange Beach</a> is a family entertainment district with plenty of shopping.  Everything from electronics to clothing, The Wharf has it all!  Looking for a great outlet center, <a href="http://www.tangeroutlet.com/" target="_blank">Tanger Outlets</a> is just the place!  The bargin hunter's paradise, Tanger Outlets features brand-name merchandise from Banana Republic, Eddie Bauer, and The Gap!   </p>
+                    <p>   </p>
                 </div>
                 <div class="activity-element col-md-4">
                     <img src="images/beachclub/golf_01_FIXED.jpg"/>
                     <h2>Golf</h2>
-                    <p>The Gulf Coast has some of the best golf courses in the country and Gulf Shores is no exception. Right down the street from The Beach Club, the #1 rated golf course in Alabama, <a href="http://www.kivadunes.com/" target="_blank">Kiva Dunes</a>, is a must play.  Designed by former U.S. Open Champion Jerry Pate, this course is one of America's finest and has been featured in many golf publications including USGA Golf Journal and Golf Course Living.  Kiva Dunes offers many amenities including a full-service clubhouse, meeting facilities, fitness area, swimming pools, and a private beach.  <a href="http://www.perdidobaygolf.com/" target="_blank">Perdido Bay</a> is another gorgeous course on the Gulf Coast.  Open 7 days a week to the public, they feature chipping and putting greens, a driving range, and a full-service clubhouse.  Designed by Earl Stone, <a href="http://www.peninsulagolfclub.com/club/scripts/public/public.asp?GRP=18396&NS=PUBLIC" target="_blank">Peninsula Golf Club</a> boasts a 27-hole layout set on beautiful Mobile Bay.  It features more than 30 lakes and accomodations include a full-service clubhouse, swimming pools, and fitness center.  </p>
+                    <p>  </p>
                 </div>
                 <div class="clearfix"></div>
                 <div class="activity-element col-md-4">
                       <img src="images/beachclub/rollerCoaster.jpg"/>
                       <h2>The Shore</h2>
-                      <p>Take a break from the water and enjoy some of these great inland activities.  <strong>The Village Lawn</strong> is the new hub of food, family, and fun all summer long!  Located at the north end of The Beach Club, this is a place where the kids can run free and the parents can rest easy with drinks and dining, live music nightly, and activities for the whole family.  With over 250 animals, the <a href="http://www.alabamagulfcoastzoo.com/" target="_blank">Alabama Gulf Coast Zoo</a> is a fantastic place to take the whole family.  From aviaries to petting zoos, this zoo has it all.  If you want to drive a little further, <a href="http://www.oakhollowfarm.net/" target="_blank">Oak Hollow Farm</a> is a fun and rustic setting that offers guided trail rides, hayrides, skeet shooting, and fishing.  For the historic buffs, tour the <a href="http://www.ussalabama.com/" target="_blank">Battleship USS Alabama</a> or many other historical vessels.  These are all available for personal viewing and will satisfy anyone's curiosity.</p>
+                      <p>T</p>
                 </div>
                 <div class="activity-element col-md-4">
                     <img src="images/beachclub/food_01_FIXED.jpg"/>
                     <h2>Eating</h2>
-                    <p>The Beach Club has some delicious places to eat all close by!  It boasts <a href="images/beachclub/Coast-Fall_Winter-2016-Menu.pdf" target="_blank">The Coast</a>, a fine restaurant located within The Clubhouse and a premier choice for both locals and visitors, overlooking the Gulf of Mexico.  <a href="images/beachclub/Gulfside-Grill-Menu.pdf" target="_blank">The Gulfside Bar and Grill</a> by the club pool allows you to enjoy a burger or a drink while lounging next to the pool.
-                    The Village Center which consists of <a href="images/beachclub/Village-Hideaway_Menu.pdf" target="_blank">The Village Hideaway</a>, a casual sports bar for everyone including kids.  It offers an exciting new gathering place to enjoy delicious food, drinks, games and good times including an extensive selection of craft beers, pool tables, shuffleboard, video games and 11 flat screen TVs.  <strong>The Village Creamery</strong> featuring delicious gourmet coffee and espresso drinks with fresh-baked breakfast goods as well as hand-dipped ice cream, specialty shakes, and refreshing fruit smoothies.  <a href="images/beachclub/lulusMenu.jpg" target="_blank">Lulu's</a> at Homeport Marina is another great place for savory burgers and refreshing drinks.  It also features some great live music, as well! </p>
-                    <br>
-                    <p>Other great places to eat include:</p>
-                    <ul style="list-style: none;">
-                        <li><a href="http://www.originaloysterhouse.com/gulf-shores-restaurant.php" target="_blank">Original Oyster House</a></li>
-                        <li><a href="http://www.thelouisianalagniappe.com/#home" target="_blank">Louisiana Lagniappe</a></li>
-                        <li><a href="http://www.tackyjacks.com" target="_blank">Tacky Jacks</a></li>
-                        <li><a href="http://www.thehangout.com" target="_blank">The Hangout</a></li>
-                        <li><a href="http://www.cobaltrestaurant.net" target="_blank">Cobalt The Restaurant</a></li>
-                        <li><a href="http://www.thegulf.com" target="_blank">The Gulf</a></li>
-                        <li><a href="http://www.cafe-grazie.com/#home" target="_blank">Cafe Grazie</a></li>
-                        <li><a href="http://www.villaggiogrille.com" target="_blank">Villaggio Grill at The Wharf</a></li>
-                        <li><a href="http://www.tintoprestaurant.com" target="_blank">Tin Top Restaurant & Oyster Bar</a></li>
-                    </ul>
+                    <p> </p>
                 </div>
                 <div class="activity-element col-md-4">
                     <img src="images/beachclub/waterStuff_01.jpg"/>
                     <h2>The Water</h2>
-                    <p>There is always something to do in the water when you are down at The Beach Club!  From Deep Sea Fishing to Dolphin Cruises, its got it all!  <a href="http://www.robsinshore.com" target="_blank">Rob's Inshore Fishing</a> guarantees a great time out on the Gulf with its year round fishing and sunset cruises.  If you are interested in seeing more of the wildlife the Gulf has to offer, <a href="http://dolphincruises.com/contact/locate-us-and-things-to-know/" target="_blank">Dolphin Cruises</a> and <a href="http://www.bluedolphincruises.com/Our-Latitude.htm" target="_blank">Blue Dolphin Cruises</a>, has you covered.  <a href="http://www.obboatrentals.com/" target="_blank">Orange Beach Boat Rentals</a> is only 25 minutes from The Beach Club and has great prices for both half day and full day rentals.  </p>
+                    <p></p>
                 </div>
             </section>
 
@@ -177,35 +163,25 @@
                 <h1 style="text-align: center;">Gallery</h1>
                 <div id="nanoGallery3">
 
-                    <a href="images/beachclub/avalonfront.jpg" data-ngthumb="images/beachclub/avalonfront_THUMB.jpg">The Avalon Building</a>
-                    <a href="images/beachclub/avalonpool.jpg" data-ngthumb="images/beachclub/avalonpool_THUMB.jpg">The Avalon Pool</a>
-                    <a href="images/beachclub/hotpool.jpg" data-ngthumb="images/beachclub/hotpool_THUMB.jpg">Hot Tub</a>
-                    <a href="images/beachclub/Clubhouse_Entrance_FIXED.jpg" data-ngthumb="images/beachclub/Clubhouse_Entrance_THUMB.jpg">The Clubhouse Entrance</a>
-                    <a href="images/beachclub/Clubhouse_FIXED.jpg" data-ngthumb="images/beachclub/Clubhouse_THUMB.jpg">The Clubhouse</a>
-                    <a href="images/beachclub/Clubhouse_Pool_FIXED" data-ngthumb="images/beachclub/Clubhouse_Pool_THUMB.jpg">The Clubhouse Pool</a>
-                    <a href="images/beachclub/Clubhouse_FitnessRoom_FIXED.jpg" data-ngthumb="images/beachclub/Clubhouse_FitnessRoom_THUMB.jpg">The Clubhouse Fitness Area</a>
-                    <a href="images/beachclub/Clubhouse_GameRoom_FIXED.jpg" data-ngthumb="images/beachclub/Clubhouse_GameRoom_THUMB.jpg">The Clubhouse Gameroom</a>
-                    <a href="images/beachclub/VillageCreamery_FIXED.jpg" data-ngthumb="images/beachclub/VillageCreamery_THUMB.jpg">The Village Creamery</a>
-                    <a href="images/beachclub/TennisCourt_FIXED.jpg" data-ngthumb="images/beachclub/TennisCourt_THUMB.jpg">Tennis Courts</a>
-                    <a href="images/beachclub/BeachView_FIXED.jpg" data-ngthumb="images/beachclub/BeachView_THUMB.jpg">Beach View From Balcony</a>
-                    <a href="images/beachclub/balconyocean.jpg" data-ngthumb="images/beachclub/balconyocean_THUMB.jpg">Balcony</a>
-                    <a href="images/beachclub/Grill_FIXED.jpg" data-ngthumb="images/beachclub/Grill_THUMB.jpg">Grill On Balcony</a>
-                    <a href="images/beachclub/diningonly.jpg" data-ngthumb="images/beachclub/diningonly_THUMB.jpg">Dining Room</a>
-                    <a href="images/beachclub/diningroom.jpg" data-ngthumb="images/beachclub/diningroom_THUMB.jpg">Dining Room</a>
-                    <a href="images/beachclub/kitchendining.jpg" data-ngthumb="images/beachclub/kitchendining_THUMB.jpg">Dining Room Into Kitchen</a>
-                    <a href="images/beachclub/livingroom.jpg" data-ngthumb="images/beachclub/livingroom_THUMB.jpg">Living Room</a>
-                    <a href="images/beachclub/LivingRoom_FIXED.jpg" data-ngthumb="images/beachclub/LivingRoom_THUMB.jpg">Living Room</a>
-                    <a href="images/beachclub/masterbedroom.jpg" data-ngthumb="images/beachclub/masterbedroom_THUMB.jpg">Master Bedroom</a>
-                    <a href="images/beachclub/masterbath.jpg" data-ngthumb="images/beachclub/masterbath_THUMB.jpg">Master Bathroom</a>
-                    <a href="images/beachclub/secondbedandbath.jpg" data-ngthumb="images/beachclub/secondbedandbath_THUMB.jpg">Second Bedroom</a>
-                    <a href="images/beachclub/twinbeds.jpg" data-ngthumb="images/beachclub/twinbeds_THUMB.jpg">Third Bedroom</a>
-                    <a href="images/beachclub/GuestBath_FIXED.jpg" data-ngthumb="images/beachclub/GuestBath_THUMB.jpg">Guest Bath</a>
-
+                    <a href="images/seagate/Building_FIXED.jpg" data-ngthumb="images/seagate/Building_THUMB.jpg">Sea Gate Exterior</a>
+                    <a href="images/seagate/Pool_FIXED.jpg" data-ngthumb="images/seagate/Pool_THUMB.jpg">Pool</a>
+                    <a href="images/seagate/Family_Room_FIXED.jpg" data-ngthumb="images/seagate/Living_Room_THUMB.jpg">Family Room</a>
+                    <a href="images/seagate/Dining_Room_THUMB.jpg" data-ngthumb="images/seagate/Kitchen_FIXED.jpg">Dining Room</a>
+                    <a href="images/seagate/Kitchen_FIXED_02.jpg" data-ngthumb="images/seagate/Kitchen_THUMB.jpg">Kitchen</a>
+                    <a href="images/seagate/Master_Bedroom_FIXED.jpg" data-ngthumb="images/seagate/Master_Bedroom_THUMB.jpg">Master Bedroom</a>
+                    <a href="images/seagate/Master_Bathroom_FIXED.jpg" data-ngthumb="images/seagate/Master_Bathroom_THUMB.jpg">Master Bathroom</a>
+                    <a href="images/seagate/Guest_Bedroom_FIXED.jpg" data-ngthumb="images/seagate/Guest_Bedroom_THUMB.jpg">Guest Bedroom</a>
+                    <a href="images/seagate/Guest_Bathroom_FIXED.jpg" data-ngthumb="images/seagate/Guest_Bathroom_THUMB.jpg">Guest Bathroom</a>
+                    <a href="images/seagate/Second_Guest_Bedroom_FIXED.jpg" data-ngthumb="images/seagate/Second_Guest_Bedroom_THUMB.jpg">Second Guest Bedroom</a>
+                    <a href="images/seagate/Laundry_Room_FIXED.jpg" data-ngthumb="images/seagate/Laundry_Room_THUMB.jpg">Laundry Room</a>
+                    <a href="images/seagate/Balcony_FIXED.jpg" data-ngthumb="images/seagate/Balcony_THUMB.jpg">Balcony</a>
+                    <a href="images/seagate/Beach_FIXED.jpg" data-ngthumb="images/seagate/Beach_THUMB.jpg">Beach</a>
 
                 </div>
-                <div class="pano">
+                <!--Panorama Section -->
+               <!-- <div class="pano">
                     <iframe width="600" height="400" allowfullscreen style="border-style:none;" src="http://cdn.pannellum.org/2.2/pannellum.htm?panorama=http%3A//i.imgur.com/ZEBmx9d.jpg"></iframe>
-                </div>
+                </div> -->
             </section>
 
             <section class="row">
