@@ -206,6 +206,10 @@ p {
     margin-top: 200px;
 }
 
+.bold {
+	font-weight: bolder;
+}
+
 #guestBook {
         margin: 50px;
         margin-top: 200px;

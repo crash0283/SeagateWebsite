@@ -191,52 +191,52 @@
             </div>
             <section class="row reserveMe">
                 <h1 id="ratesReservations" style="text-align: center; margin-top: 30px;">Rates and Reservations</h1>
-                <div class="table-responsive">
+                <div class="table-responsive col-xs-6 col-md-offset-3">
                 	<table class="table table-striped">
 	                	<tr>
-	                		<th>Rates:</th>
-	                		<th>Weekly:</th>
-	                		<th>Monthly:</th>
+	                		<th>Dates:</th>
+	                		<th>Weekly Rate:</th>
+	                		<th>Monthly Rate:</th>
 	                    </tr>
 	                    <tr>
-	                    	<th>10/1/16 - 12/23/16</th>
-	                    	<th>$1000</th>
-	                    	<th>$3000</th>
+	                    	<td>10/1/16 - 12/23/16</td>
+	                    	<td>$1000</td>
+	                    	<td>$3000</td>
 	                    </tr>
 	                    <tr>
-	                    	<th>12/24/16 - 2/10/17</th>
-	                    	<th>$1550</th>
-	                    	<th>$4650</th>
+	                    	<td>12/24/16 - 2/10/17</td>
+	                    	<td>$1550</td>
+	                    	<td>$4650</td>
 	                    </tr>
 	                    <tr>
-	                    	<th>2/11/17 - 3/17/17</th>
-	                    	<th>$2300</th>
-	                    	<th>$6900</th>
+	                    	<td>2/11/17 - 3/17/17</td>
+	                    	<td>$2300</td>
+	                    	<td>$6900</td>
 	                    </tr>
 	                    <tr>
-	                    	<th>3/18/17 - 4/7/17</th>
-	                    	<th>$2530</th>
-	                    	<th>N/A</th>
+	                    	<td>3/18/17 - 4/7/17</td>
+	                    	<td>$2530</td>
+	                    	<td>N/A</td>
 	                    </tr>
 	                    <tr>
-	                    	<th>4/8/17 - 6/30/17</th>
-	                    	<th>$1625</th>
-	                    	<th>$4875</th>
+	                    	<td>4/8/17 - 6/30/17</td>
+	                    	<td>$1625</td>
+	                    	<td>$4875</td>
 	                    </tr>
 	                    <tr>
-	                    	<th>7/1/17 - 7/7/17</th>
-	                    	<th>$1950</th>
-	                    	<th>N/A</th>
+	                    	<td>7/1/17 - 7/7/17</td>
+	                    	<td>$1950</td>
+	                    	<td>N/A</td>
 	                    </tr>
 	                    <tr>
-	                    	<th>7/8/17 - 8/18/17</th>
-	                    	<th>$1625</th>
-	                    	<th>$4875</th>
+	                    	<td>7/8/17 - 8/18/17</td>
+	                    	<td>$1625</td>
+	                    	<td>$4875</td>
 	                    </tr>
 	                    <tr>
-	                    	<th>8/19/17 - 9/30/17</th>
-	                    	<th>$1275</th>
-	                    	<th>$3825</th>
+	                    	<td>8/19/17 - 9/30/17</td>
+	                    	<td>$1275</td>
+	                    	<td>$3825</td>
 	                    </tr>
 	                </table>
                     <br>
