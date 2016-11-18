@@ -249,7 +249,7 @@
                 </div>
                 <div class="col-md-4 col-md-offset-4" style="margin-top: 30px; margin-bottom: 30px;">
                     <!-- OwnerRez Booking/Inquiry widget for Sea Gate Unit 205 -->
-                    <div class="ownerrez-widget" data-widgetId="1a74dbdd7a0141879ca83201d494f662" data-propertyId="1724f26b9a5644e081de4bb84b1533be"></div>
+                    <div class="ownerrez-widget" data-widgetId="39ae603735c54850b61052c026e1fc0f" data-propertyId="1724f26b9a5644e081de4bb84b1533be"></div>
                     <script type="text/javascript" src="https://secure.ownerreservations.com/widget.js"></script>
                 </div>
             </section>
