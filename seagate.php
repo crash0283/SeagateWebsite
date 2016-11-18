@@ -83,12 +83,11 @@
                     <h1>Paradise Awaits...</h1>
                     <p class='lead'><strong>Sea Gate
                         205</strong>
-                        is a gorgeous beachfront condominium located in Indian Shores, FL near beautiful Clearwater Beach, FL.</p>
-                        <p>Our condo is located on the 15th floor and is professionally decorated.  This is a 1400 square foot condo that features a full balcony view of the Gulf of Mexico and <strong>BEAUTIFUL</strong> sunsets daily! </p>
+                        is a gorgeous beachfront condominium located in Indian Shores, FL.  This beachfrom complex is nestled between St.Petersburg Beach and Clearwater Beach on Florida's Gulf Coast.</p>
+                        <p>Our condo is located on the 3rd floor and is professionally decorated.  This is a 1500 square foot condo that features a full balcony view of the Gulf of Mexico and <strong>BEAUTIFUL</strong> sunsets daily! </p>
                     <br>
                     <p>
-                        Our guests will enjoy all the comforts of home, but with the luxuries of a first-class vacation! The extensively lush landscape and beautifully clean building will take your worries away. Enjoy peaceful sunsets or sunny days on our large balcony or
-                        relax in the sun on the beautiful sugar sand beaches of Alabama.
+                        This completely refurnished unit has all the comforts of home and has nearly everything you need to make your stay as comfortable as possible.  Enjoy peaceful sunsets or sunny days on our large balcony while watching your kids play on the beautiful white beaches of Florida!
                     </p>
                 </div>
                 <br>
@@ -98,16 +97,16 @@
                 <h1 id="accommodations" class="accomodations">Accommodations:</h1>
                 <ul class="accomodations list-unstyled aList">
                   <i class="fa fa-bed fa-5x" aria-hidden="true"></i>
-                    <li>3 Bedroom (1 King Bed, 1 Queen Bed, and 2 Twin Beds)</li>
-                    <li>3 Full Baths and 1 Half Bath</li>
+                    <li>3 Bedroom (1 King Bed, 3 Queen Beds)</li>
+                    <li>2 Full Baths</li>
                     <li>Sleeper Sofa (Family Room)</li>
-                    <li>Full Kitchen - Granite Countertops With Upgraded Appliances, Flat Top Stove, Dishwasher, Cooking Utensils, Dishes, Microwave, Toaster, and Coffeemaker</li>
+                    <li>Full Kitchen - Stove, Dishwasher, Cooking Utensils, Dishes, Microwave, Toaster, and Coffeemaker</li>
                     <li>Washer/Dryer - Linens and Towels Provided</li>
                     <li>Air Conditioning</li>
-                    <li>TV (4), Cable, Internet Access, DVD w/ Surround Sound, VCR, Phone</li>
-                    <li>Balcony - Lanai, Gas BBQ Grill</li>
-                    <li>Heated Pools (4), Inside Pool (1), Outside Shower</li>
-                    <li>Abundant Parking</li>
+                    <li>TV (4), Cable, Internet Access, DVD, VCR, Phone</li>
+                    <li>Balcony - Lanai, Charcoal and Gas Grills (located on Seagate grounds near beach)</li>
+                    <li>Heated Pool, Outside Shower</li>
+                    <li>Parking with SOME covered parking avaliable</li>
                 </ul>
                 <h4 id="smoking">
                     <strong>*Sorry, No Smoking, No Pets*</strong>
@@ -121,7 +120,7 @@
             </section>
 
             <section id="activities" class="row activity-section">
-                <h1 id="activityTitle">So Much To Do...</h1>
+                <h1 id="activityTitle">What To Do...</h1>
                 <div class="activity-element col-md-4">
                     <img src="images/beachclub/cuBeach_FIXED.jpg"/>
                     <h2>The Beach</h2>
@@ -140,7 +139,7 @@
                 <div class="clearfix"></div>
                 <div class="activity-element col-md-4">
                       <img src="images/beachclub/rollerCoaster.jpg"/>
-                      <h2>The Shore</h2>
+                      <h2>On Land</h2>
                       <p>T</p>
                 </div>
                 <div class="activity-element col-md-4">
@@ -150,7 +149,7 @@
                 </div>
                 <div class="activity-element col-md-4">
                     <img src="images/beachclub/waterStuff_01.jpg"/>
-                    <h2>The Water</h2>
+                    <h2>On Water</h2>
                     <p></p>
                 </div>
             </section>
@@ -192,17 +191,56 @@
             </div>
             <section class="row reserveMe">
                 <h1 id="ratesReservations" style="text-align: center; margin-top: 30px;">Rates and Reservations</h1>
-                <div class="rates">
-                    <h4><strong>Winter (November - February):</strong>    $1350/week plus deposit</h4>
-                    <h4><strong>Spring (March - Mid-May):</strong>    $1550/week plus deposit</h4>
-                    <h4><strong>Early Summer (Mid-May - Mid-June):</strong>    $1850/week plus deposit</h4>
-                    <h4><strong>Summer (Mid-June - July):</strong>    $2350/week plus deposit</h4>
-                    <h4><strong>Late Summer (August):</strong>    $1850/week plus deposit</h4>
-                    <h4><strong>Fall (September - October):</strong>    $1550/week plus deposit</h4>
-                    <h4><strong>Monthly Fall:</strong>    $2750/month plus deposit</h4>
-                    <h4><strong>Monthly Winter:</strong>    $2250/month plus deposit</h4>
+                <div class="table-responsive">
+                	<table class="table table-striped">
+	                	<tr>
+	                		<th>Rates:</th>
+	                		<th>Weekly:</th>
+	                		<th>Monthly:</th>
+	                    </tr>
+	                    <tr>
+	                    	<th>10/1/16 - 12/23/16</th>
+	                    	<th>$1000</th>
+	                    	<th>$3000</th>
+	                    </tr>
+	                    <tr>
+	                    	<th>12/24/16 - 2/10/17</th>
+	                    	<th>$1550</th>
+	                    	<th>$4650</th>
+	                    </tr>
+	                    <tr>
+	                    	<th>2/11/17 - 3/17/17</th>
+	                    	<th>$2300</th>
+	                    	<th>$6900</th>
+	                    </tr>
+	                    <tr>
+	                    	<th>3/18/17 - 4/7/17</th>
+	                    	<th>$2530</th>
+	                    	<th>N/A</th>
+	                    </tr>
+	                    <tr>
+	                    	<th>4/8/17 - 6/30/17</th>
+	                    	<th>$1625</th>
+	                    	<th>$4875</th>
+	                    </tr>
+	                    <tr>
+	                    	<th>7/1/17 - 7/7/17</th>
+	                    	<th>$1950</th>
+	                    	<th>N/A</th>
+	                    </tr>
+	                    <tr>
+	                    	<th>7/8/17 - 8/18/17</th>
+	                    	<th>$1625</th>
+	                    	<th>$4875</th>
+	                    </tr>
+	                    <tr>
+	                    	<th>8/19/17 - 9/30/17</th>
+	                    	<th>$1275</th>
+	                    	<th>$3825</th>
+	                    </tr>
+	                </table>
                     <br>
-                    <h5 class="deposit">** Prices include cleaning and taxes for the period rented.  $300.00 Security/Key Deposit is refunded upon return of keys and due at time of booking.  Full amount due 30 days prior to arrival.</h5>
+                    <h5 class="rates deposit">** Rates do not include $150.00 cleaning fee and 13% tax.  A $300.00 refundable deposit by MasterCard or Visa is required to hold the booking.</h5>
                 </div>
                 <div class="col-md-6 col-md-offset-4" style="margin-top: 30px; margin-bottom: 30px;">
                     <!-- OwnerRez Three Month Calendar widget for The Beach Club A1506 -->
