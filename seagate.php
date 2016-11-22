@@ -122,33 +122,33 @@
             <section id="activities" class="row activity-section">
                 <h1 id="activityTitle">What To Do...</h1>
                 <div class="activity-element col-md-4">
-                    <img src="images/beachclub/cuBeach_FIXED.jpg"/>
+                    <img src="images/seagate/Starfish.png"/>
                     <h2>The Beach</h2>
                     <p></p>
                 </div>
                 <div class="activity-element col-md-4">
-                    <img src="images/beachclub/shopping_01_FIXED.jpg"/>
+                    <img src="images/seagate/Shop.png"/>
                     <h2>Shopping</h2>
                     <p>   </p>
                 </div>
                 <div class="activity-element col-md-4">
-                    <img src="images/beachclub/golf_01_FIXED.jpg"/>
+                    <img src="images/seagate/Golf_Activity.png"/>
                     <h2>Golf</h2>
                     <p>  </p>
                 </div>
                 <div class="clearfix"></div>
                 <div class="activity-element col-md-4">
-                      <img src="images/beachclub/rollerCoaster.jpg"/>
+                      <img src="images/seagate/Lion.png"/>
                       <h2>On Land</h2>
-                      <p>T</p>
+                      <p></p>
                 </div>
                 <div class="activity-element col-md-4">
-                    <img src="images/beachclub/food_01_FIXED.jpg"/>
+                    <img src="images/seagate/Eat_01.png"/>
                     <h2>Eating</h2>
                     <p> </p>
                 </div>
                 <div class="activity-element col-md-4">
-                    <img src="images/beachclub/waterStuff_01.jpg"/>
+                    <img src="images/seagate/Wheel.png"/>
                     <h2>On Water</h2>
                     <p></p>
                 </div>
@@ -328,6 +328,9 @@
             <div>Icons made by <a href="http://www.flaticon.com/authors/epiccoders" title="EpicCoders">EpicCoders</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
             <div>Icons made by <a href="http://www.flaticon.com/authors/madebyoliver" title="Madebyoliver">Madebyoliver</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
             <div>Icons made by <a href="http://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+            <div>Icons made by <a href="http://www.flaticon.com/authors/madebyoliver" title="Madebyoliver">Madebyoliver</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+            
+            
         </footer>
 
         <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
