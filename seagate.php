@@ -124,7 +124,7 @@
                 <div class="activity-element col-md-4">
                     <img src="images/seagate/Starfish.png"/>
                     <h2>The Beach</h2>
-                    <p></p>
+                    <p>The beach is located right off the condo and has some of the best sand along the Gulf Coast.  It's sugary white texture is perfect for building sand castles with the kids or digging your feet in for some relaxation time.  If you already had plenty of sun, our balcony offers a perfect view of the beach.  So, if you have children, you'll be able to watch them from above.  The beaches are raked almost every morning, so get there before hand if you want to collect some shells or find some buried treasure!  Fishing off the beach is allowed, as well, so head over to the nearest bait shop for the latest fishing report.  Adjacent to the beach is where you'll find the condo shower for washing off before heading in. Don't forget about the BEAUTIFUL sunsets.  Watch them from the beach or the balcony! </p>
                 </div>
                 <div class="activity-element col-md-4">
                     <img src="images/seagate/Shop.png"/>
