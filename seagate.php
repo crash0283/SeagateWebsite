@@ -129,28 +129,41 @@
                 <div class="activity-element col-md-4">
                     <img src="images/seagate/Shop.png"/>
                     <h2>Shopping</h2>
-                    <p>   </p>
+                    <p>If shopping is on your list of things to do when visiting us, you won't be disappointed.  <a href="http://www.johnspass.com/" target="_blank">John's Pass</a> is located just 7 miles south of Sea Gate on Gulf Blvd.  It features a waterfront tourist area with TONS of souvenir shops, watercraft and boat rentals, restaurants, and more!  Johns Pass is a wonderful place to go with the family for the day.  If you like Flea Markets, <a href="http://thewagonwheelfleamarket.com/" target="_blank">The Mustang Flea Market</a> is the area's largest open-air flea market and only minutes away by car. Looking for boat retailers?  The area's largest <a href="http://www.westmarine.com/stores/clearwater-fl-1242" target="_blank">West Marine</a> store is located in Clearwater and should provide you with all your boating needs.  Other shopping experiences include <a href="http://www.shopinternationalplaza.com/" target="_blank">Tampa's International Plaza</a> located in Tampa and <a href="http://www.simon.com/mall/tyrone-square/about" target="_blank">Tyrone Square Mall</a> which is only about 10 miles away from Sea Gate!</p>
                 </div>
                 <div class="activity-element col-md-4">
                     <img src="images/seagate/Golf_Activity.png"/>
                     <h2>Golf</h2>
-                    <p>  </p>
+                    <p></p>
                 </div>
                 <div class="clearfix"></div>
                 <div class="activity-element col-md-4">
                       <img src="images/seagate/Lion.png"/>
                       <h2>On Land</h2>
-                      <p></p>
+                      <p>If you had enough of the water for one day and want to spend some time inland, there is plenty to do!</p>
+                      <p>If you don't feel like walking or don't have a car, <a href="http://www.psta.net/beachtrolley.php" target="_blank">The SunCoast Trolley</a> is a great option!  The trolley stop is located right in front of Sea Gate on Gulf Blvd.  The trolley goes as far north as Clearwater and as far south as St. Petes Beach...it's a great way to get around!  Please checkout their website for prices and pickup times.</p>
+                      <p><a href="https://www.seabirdsanctuary.com/" target="_blank">Suncoast Seabird Sanctuary</a> is about 3/4 of a mile south of Sea Gate and is a not-for-profit bird sanctuary.  The sanctuary is open to visitors 365 days a year and is FREE!  This is one of the largest wild bird rehabilitation centers in the US!</p>
+                      <p><a href="http://www.smugglersgolf.com/" target="_blank">Smuggler's Cove Adventure Mini Golf</a> is located just five blocks north of Sea Gate and features an 18 hole miniature golf course perfect for the entire family!</p>
+                      <p>If you head a little north to Clearwater, you will find <a href="http://www.visitstpeteclearwater.com/attractions/pier-60-clearwater-beach/1570" target="_blank">Pier 60</a>.  Pier 60 in Clearwater Beach is the area's largest pier extending over the Gulf of Mexico.  Like Johns Pass, Pier 60 offers tons of shops marinas, tours, and more!</p>
+                      <p>If you travel a little more inland, you'll find the <a href="http://www.lowryparkzoo.org/" target="_blank">Lowry Park Zoo of Tampa Bay</a>.  This is a fantasic zoo that was featured in Child Magazine as the #1 Voted Family Friendly Zoo in America.  Also, within the Tampa area, you'll find area favorites such as <a href="https://seaworldparks.com/en/buschgardens-tampa" target="_blank">Busch Gardens</a> and <a href="https://adventureisland.com/en/tampa" target="_blank">Adventure Island Water Park</a>.</p>
+                      <p>Lastly, if <a href="https://disneyworld.disney.go.com/" target="_blank">Walt Disney World</a> is on your radar, its around a 2 hr drive from Sea Gate to Orlando, so plan accordingly...  </p>
                 </div>
                 <div class="activity-element col-md-4">
                     <img src="images/seagate/Eat_01.png"/>
                     <h2>Eating</h2>
-                    <p> </p>
+                    <p>Where to Eat?  Finding a great place to eat near Seagate is REALLY simple!</p>
+                    <p><a href="http://www.saltrockgrill.com/" target="_blank">Salt Rock Grill</a>, one of the best restaurants in the Tampa/St.Persburg area, is located adjacent to Sea Gate.  This is a fine dining establishment with excellent food and drinks, as well as their very own wine cellar with many fine choices!  They offer both indoor and outdoor waterfront dining along the InterCoastal Waterway.</p>
+                    <p><a href="http://www.johnspass.com/" target="_blank">Johns Pass Village & Boardwalk</a> offer many different dining experiences that are close by.  Some of these include: <a href="http://www.gofriendlyfisherman.com/" target="_blank">Friendly Fisherman</a>, <a href="http://sculleysrestaurant.com/" target="_blank">Sculley's</a>, <a href="http://thehutbarandgrill.com/" target="_blank">The Hut Tiki Bar and Grille</a>, <a href="http://www.waltzfishshak.com/" target="_blank">Waltz Fish Shak</a>, <a href="http://www.bubbagump.com/" target="_blank">Bubba Gump Shrimp Company</a>, <a href="http://www.delosaspizza.com/" target="_blank">DeLosa's Pizzeria and Resturant</a>, and Pirates Pub and Grub.<p/>
+                    <p>If you are looking for some beachfront dining experiences, there are a couple great ones relatively closeby.  <a href="http://caddysotb.com/" target="_blank">Caddy's On The Beach</a> is a true, sand-in-your-toes, beachfront dining experience.  This is one of the few restaurants with picnic tables actually on the beach!  This beachfront bar/grill is great for the whole family with live bands and karaoke regularly, as well as a roof-top bar for watching the sunsets.  Located on Treasure Island, its about 10 miles south of Sea Gate.  Another great beachfront restaurant is <a href="http://frenchysonline.com/" target="_blank">Frenchy's On The Beach</a>.  It's within walking distance to Pier 60 on Clearwater Beach and, other than Caddy's On The Waterfront, this is the second-best beachfront restaurant & bar.  It's a must-try if you are in the Clearwater Beach area!</p>
                 </div>
                 <div class="activity-element col-md-4">
                     <img src="images/seagate/Wheel.png"/>
                     <h2>On Water</h2>
-                    <p></p>
+                    <p>If you came down to Florida to be on the water...well, you came to the right place!  Fishing, boating, and...swimming with the manatees are just a few of the things that the surrounding areas of Sea Gate offer.</p>
+                    <p>Beachfront fishing is common in Florida.  Sand Perch, trout, red fish, rays, even 8-foot Tarpon can be caught from the beach.  Check in with your local bait & tackle shops to see what's biting, what to use, and where to go.  <a href="http://www.tampabayfishingpier.com/" target="_blank">Redington Fishing Pier</a> is another great place to try your luck at fishing.  This fishing pier is about two miles south of Sea Gate and requires admission.  Across from the fishing pier is the <a href="https://www.dogfishtacklecompany.com/" target="_blank">Dogfish Tackle Company</a>, one of the largest bait and tackle stores along the beach.</p>
+                    <p>Once per year(usually in June-July) sea turtles come out of the water and onto the beaches to lay their eggs.  If you keep a look out, you can see many of these nests along the beach, and, if your lucky enough, to see them hatch and try to make their way to the ocean!</p>
+                    <p>Swimming with the Manatees is a popular tourist experience that takes place in the summer on the <a href="http://www.crystalriverfl.org/page/for_visitors" target="_blank">Crystal River</a> or the winter in the <a href="https://www.floridastateparks.org/park/Homosassa-Springs" target="_blank">Homosassa River</a>.  Several tour operators offer these get-wet excursions 7 days a week, year-round.</p>
+                    <p><a href="http://www.visitstpeteclearwater.com/article/fort-de-soto-park" target="_blank">Fort Desoto</a>, <a href="http://www.pinellascounty.org/park/managedlands/skp.htm" target="_blank">Shell Key</a>, and <a href="https://www.floridastateparks.org/park/Egmont-Key" target="_blank">Egmont Key</a> are three islands located on the mouth of Tampa Bay.  Fort Desoto is the only one of the three that is reachable by car.  The most popular and interesting area of this State Park is its northernmost shoreline.  Shell Island is reachable only by boat and is a shell hunter's paradise!  Its backside is a wade-in fisherman's delight, as well.  Several tour boat companies offer water taxis/shuttles to these keys.  Egmont Key is, again, only reachable by boat and is home to to large tortoises.  Trek through the trails, keeping your eyes and ears open for them.  Egmont Key used to be a coastal artillery base.  The ruins are still seen throughout the island.  There are NO facilities on this island, so make sure you bring enough food and drink to last the trip!</p>
                 </div>
             </section>
 
@@ -329,8 +342,8 @@
             <div>Icons made by <a href="http://www.flaticon.com/authors/madebyoliver" title="Madebyoliver">Madebyoliver</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
             <div>Icons made by <a href="http://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
             <div>Icons made by <a href="http://www.flaticon.com/authors/madebyoliver" title="Madebyoliver">Madebyoliver</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
-            
-            
+
+
         </footer>
 
         <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
